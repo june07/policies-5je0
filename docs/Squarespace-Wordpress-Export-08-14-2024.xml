@@ -1,0 +1,5261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>Jones-n-Cloths</title>
+    <link>https://jonesncloths.com</link>
+    <pubDate>Tue, 30 Jan 2024 23:55:47 +0000</pubDate>
+    <description />
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>152384848</wp:author_id>
+      <wp:author_login>support@jonesncloths.com</wp:author_login>
+      <wp:author_email>support@jonesncloths.com</wp:author_email>
+      <wp:author_display_name><![CDATA[Dolmain Dricketts]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[Dolmain]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[Dricketts]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[null - null]]></wp:cat_name>
+      <wp:category_nicename>null-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/home</link>
+      <title>Home</title>
+      <pubDate>Sat, 03 Aug 2024 13:29:04 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="65b98c89ef5daf4cf02867b7">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="black"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+       has-background
+    
+    
+    black'
+  
+  data-section-id="65caacbf3ae54911a6dc4c41"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;663aef415ba8185291d0a217&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1715138369942,
+    &quot;updatedOn&quot;: 1715138370010,
+    &quot;tags&quot;: [ ],
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1715138369942,
+    &quot;authorId&quot;: &quot;66294ccb9526e54f3c172604&quot;,
+    &quot;systemDataId&quot;: &quot;c6935bee-dc14-4e90-8856-1f4849f8bf6c&quot;,
+    &quot;systemDataVariants&quot;: &quot;2992x2000,100w,300w,500w,750w,1000w,1500w,2500w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+    &quot;filename&quot;: &quot;9b9fa0704542f28535f3a25c9899a65c.jpg&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;655f4e&quot;,
+      &quot;topRightAverage&quot;: &quot;463126&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;5e605a&quot;,
+      &quot;bottomRightAverage&quot;: &quot;636867&quot;,
+      &quot;centerAverage&quot;: &quot;3d3528&quot;,
+      &quot;suggestedBgColor&quot;: &quot;625b52&quot;
+    },
+    &quot;urlId&quot;: &quot;6i7l2lbwaebmhe0jwesgiwpu40i9je&quot;,
+    &quot;body&quot;: null,
+    &quot;location&quot;: {
+      &quot;mapZoom&quot;: 15.0
+    },
+    &quot;metadata&quot;: {
+      &quot;shutterSpeed&quot;: &quot;0/0&quot;,
+      &quot;isoSpeed&quot;: &quot;0&quot;,
+      &quot;focalLength&quot;: &quot;0&quot;
+    },
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;66294ccb9526e54f3c172604&quot;,
+      &quot;displayName&quot;: &quot;Dolmain Dricketts&quot;,
+      &quot;firstName&quot;: &quot;Dolmain&quot;,
+      &quot;lastName&quot;: &quot;Dricketts&quot;,
+      &quot;avatarUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/66294ccb9526e54f3c172604/b6759d0a-4000-4796-b8d2-64e6d1a1553b/500-500.png?format=300w&quot;,
+      &quot;websiteUrl&quot;: &quot;http://www.jonesncloths.com&quot;,
+      &quot;bio&quot;: &quot;&quot;,
+      &quot;avatarAssetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/66294ccb9526e54f3c172604/b6759d0a-4000-4796-b8d2-64e6d1a1553b/500-500.png?format=300w&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/c6935bee-dc14-4e90-8856-1f4849f8bf6c/9b9fa0704542f28535f3a25c9899a65c.jpg&quot;,
+    &quot;contentType&quot;: &quot;image/jpeg&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;originalSize&quot;: &quot;2992x2000&quot;,
+    &quot;recordTypeLabel&quot;: &quot;image&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.0,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;customSectionHeight&quot;: 1,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;black&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;,
+  &quot;imageEffect&quot;: &quot;none&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;parallax&quot;,
+    &quot;rotation&quot;: 90,
+    &quot;intensity&quot;: 30
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false,
+    &quot;type&quot;: &quot;soft-corners&quot;,
+    &quot;width&quot;: {
+      &quot;unit&quot;: &quot;vw&quot;,
+      &quot;value&quot;: 100.0
+    },
+    &quot;height&quot;: {
+      &quot;unit&quot;: &quot;vw&quot;,
+      &quot;value&quot;: 6.0
+    },
+    &quot;isFlipX&quot;: false,
+    &quot;isFlipY&quot;: false,
+    &quot;offset&quot;: {
+      &quot;unit&quot;: &quot;px&quot;,
+      &quot;value&quot;: 0.0
+    },
+    &quot;stroke&quot;: {
+      &quot;style&quot;: &quot;none&quot;,
+      &quot;color&quot;: {
+        &quot;type&quot;: &quot;THEME_COLOR&quot;
+      },
+      &quot;thickness&quot;: {
+        &quot;unit&quot;: &quot;px&quot;,
+        &quot;value&quot;: 6.0
+      },
+      &quot;dashLength&quot;: {
+        &quot;unit&quot;: &quot;px&quot;,
+        &quot;value&quot;: 5.0
+      },
+      &quot;gapLength&quot;: {
+        &quot;unit&quot;: &quot;px&quot;,
+        &quot;value&quot;: 15.0
+      },
+      &quot;linecap&quot;: &quot;square&quot;
+    }
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border"
+    
+  >
+    <div class="section-background">
+    
+      
+        
+        
+          
+
+
+
+
+
+  <div
+  class="section-background-content"
+  data-controller="BackgroundImageFXParallax"
+  >
+  
+
+
+
+<img alt="" data-image-focal-point="0.5,0.5" crossOrigin src="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/c6935bee-dc14-4e90-8856-1f4849f8bf6c/9b9fa0704542f28535f3a25c9899a65c.jpg" data-image="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/c6935bee-dc14-4e90-8856-1f4849f8bf6c/9b9fa0704542f28535f3a25c9899a65c.jpg" data-image-dimensions="2992x2000" data-image-focal-point="0.5,0.5" alt="9b9fa0704542f28535f3a25c9899a65c.jpg" data-load="false" elementtiming="nbf-background-image-fx" src="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/c6935bee-dc14-4e90-8856-1f4849f8bf6c/9b9fa0704542f28535f3a25c9899a65c.jpg" width="2992" height="2000" alt="" sizes="(max-width: 799px) 200vw, 100vw" class="background-image-fx" style="display:block;object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/c6935bee-dc14-4e90-8856-1f4849f8bf6c/9b9fa0704542f28535f3a25c9899a65c.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/c6935bee-dc14-4e90-8856-1f4849f8bf6c/9b9fa0704542f28535f3a25c9899a65c.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/c6935bee-dc14-4e90-8856-1f4849f8bf6c/9b9fa0704542f28535f3a25c9899a65c.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/c6935bee-dc14-4e90-8856-1f4849f8bf6c/9b9fa0704542f28535f3a25c9899a65c.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/c6935bee-dc14-4e90-8856-1f4849f8bf6c/9b9fa0704542f28535f3a25c9899a65c.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/c6935bee-dc14-4e90-8856-1f4849f8bf6c/9b9fa0704542f28535f3a25c9899a65c.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/c6935bee-dc14-4e90-8856-1f4849f8bf6c/9b9fa0704542f28535f3a25c9899a65c.jpg?format=2500w 2500w" fetchpriority="high" loading="eager" decoding="async" data-loader="sqs">
+
+  <div class="section-background-canvas background-fx-canvas"></div>
+</div>
+
+
+        
+        <div class="section-background-overlay" style="opacity: 0;"></div>
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-65caacbf3ae54911a6dc4c40 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(5,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-65caacbf3ae54911a6dc4c40 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-65caacbf3ae54911a6dc4c40 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(4,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-yui_3_17_2_1_1715136641460_7153 {
+    grid-area: 3/2/6/11;
+    z-index: 3;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1715136641460_7153 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1715136641460_7153 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1715136641460_7153 {
+      grid-area: 1/1/5/27;
+      z-index: 3;
+
+      
+        
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1715136641460_7153 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1715136641460_7153 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-65caacbf3ae54911a6dc4c40"><div class="fe-block fe-block-yui_3_17_2_1_1715136641460_7153"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1715136641460_7153"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h2 style="text-align:center;white-space:pre-wrap;"><span class="sqsrte-text-color--accent">DIGITAL PRINTING TECHNIQUE </span></h2>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="bright-inverse"
+  class='page-section 
+    
+      user-items-list-section
+      full-bleed-section
+    
+    
+    
+      
+    
+    
+      
+    
+    
+    
+    
+    
+    bright-inverse'
+  
+  data-section-id="65b98c89ef5daf4cf02867cb"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageFocalPoint&quot;: {
+    &quot;x&quot;: 0.5,
+    &quot;y&quot;: 0.5
+  },
+  &quot;imageOverlayOpacity&quot;: 0.3,
+  &quot;backgroundColor&quot;: &quot;white&quot;,
+  &quot;sectionTheme&quot;: &quot;bright-inverse&quot;,
+  &quot;imageEffect&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;generative&quot;,
+  &quot;backgroundImage&quot;: null
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;filter&quot;: 1,
+    &quot;videoFallbackContentItem&quot;: null,
+    &quot;nativeVideoContentItem&quot;: null,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation=""
+  
+  data-json-schema-section 
+  
+  
+>
+  <div
+    class="section-border"
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div
+  class="user-items-list"
+  style="
+    min-height: 100px;
+    padding-top: 10vmax;
+    padding-bottom: 10vmax;
+    "
+  data-card-theme=""
+  data-section-id="user-items-list"
+  data-section-title-enabled="true"
+  data-space-below-section-title-value="70"
+  data-space-below-section-title-unit="px"
+  data-layout-width="full"
+>
+  
+    
+    <div class="list-section-title"
+      id="65b98c89ef5daf4cf02867cb"
+      style= "padding-bottom: 70px;"
+      data-section-title-alignment="center"
+    >
+      <p class="" style="white-space:pre-wrap;"><span style="text-decoration:underline">MOCKUP DESIGN</span></p><p class="" style="white-space:pre-wrap;"><strong><em>Welcome to Jones-N-Cloths, your ultimate destination for refined fashion and timeless sophistication.</em></strong></p>
+    </div>
+  
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+  .user-items-list-item-container[data-section-id="65b98c89ef5daf4cf02867cb"] .list-item-content__title {
+    font-size: 3rem;
+  }
+  .user-items-list-item-container[data-section-id="65b98c89ef5daf4cf02867cb"] .list-item-content__description {
+    font-size: 1.4rem;
+  }
+  .user-items-list-item-container[data-section-id="65b98c89ef5daf4cf02867cb"] .list-item-content__button {
+    font-size: 1.1rem;
+  }
+
+  @supports (--test-custom-property: true) {
+    .user-items-list-item-container[data-section-id="65b98c89ef5daf4cf02867cb"] {
+      --title-font-size-value: 3;
+      --body-font-size-value: 1.4;
+      --button-font-size-value: 1.1;
+    }
+  }
+</style>
+
+
+<ul class="
+    user-items-list-item-container
+    user-items-list-simple
+  "
+  style="
+    grid-gap: 100px 100px;
+  "
+  data-controller="UserItemsListSimple"
+  data-num-columns="3"
+  data-content-order="media-first"
+  data-alignment-vertical="top"
+  data-section-id="65b98c89ef5daf4cf02867cb"
+  data-current-context="{
+  &quot;userItems&quot;: [ {
+    &quot;title&quot;: &quot;T-SHIRT&quot;,
+    &quot;description&quot;: &quot;&lt;p class=\&quot;\&quot; style=\&quot;white-space:pre-wrap;\&quot;&gt;$25-40&lt;\/p&gt;&quot;,
+    &quot;button&quot;: {
+      &quot;buttonText&quot;: &quot;VISIT&quot;,
+      &quot;buttonLink&quot;: &quot;https://jonesncloths.com/shirts&quot;,
+      &quot;buttonNewWindow&quot;: true
+    },
+    &quot;imageAltText&quot;: &quot;Placeholder&quot;,
+    &quot;imageId&quot;: &quot;662b3970cbd73d095b9e9475&quot;,
+    &quot;image&quot;: {
+      &quot;id&quot;: &quot;662b3970cbd73d095b9e9475&quot;,
+      &quot;recordType&quot;: 2,
+      &quot;addedOn&quot;: 1714108784778,
+      &quot;updatedOn&quot;: 1714108784876,
+      &quot;tags&quot;: [ ],
+      &quot;workflowState&quot;: 1,
+      &quot;publishOn&quot;: 1714108784778,
+      &quot;authorId&quot;: &quot;66294ccb9526e54f3c172604&quot;,
+      &quot;systemDataId&quot;: &quot;6f6f1b54-2527-4bd1-96d1-e7e1579a8752&quot;,
+      &quot;systemDataVariants&quot;: &quot;1142x1130,100w,300w,500w,750w,1000w&quot;,
+      &quot;systemDataSourceType&quot;: &quot;PNG&quot;,
+      &quot;filename&quot;: &quot;New Project (1).png&quot;,
+      &quot;mediaFocalPoint&quot;: {
+        &quot;x&quot;: 0.5,
+        &quot;y&quot;: 0.5,
+        &quot;source&quot;: 3
+      },
+      &quot;colorData&quot;: {
+        &quot;topLeftAverage&quot;: &quot;3e4639&quot;,
+        &quot;topRightAverage&quot;: &quot;1f281b&quot;,
+        &quot;bottomLeftAverage&quot;: &quot;010100&quot;,
+        &quot;bottomRightAverage&quot;: &quot;000000&quot;,
+        &quot;centerAverage&quot;: &quot;040503&quot;,
+        &quot;suggestedBgColor&quot;: &quot;302928&quot;
+      },
+      &quot;urlId&quot;: &quot;y95cs17l96263g1hyvp9kpymxr42dl&quot;,
+      &quot;body&quot;: null,
+      &quot;location&quot;: {
+        &quot;mapZoom&quot;: 15.0
+      },
+      &quot;metadata&quot;: {
+        &quot;shutterSpeed&quot;: &quot;0/0&quot;,
+        &quot;isoSpeed&quot;: &quot;0&quot;,
+        &quot;focalLength&quot;: &quot;0&quot;
+      },
+      &quot;likeCount&quot;: 0,
+      &quot;commentCount&quot;: 0,
+      &quot;publicCommentCount&quot;: 0,
+      &quot;commentState&quot;: 2,
+      &quot;unsaved&quot;: false,
+      &quot;author&quot;: {
+        &quot;id&quot;: &quot;66294ccb9526e54f3c172604&quot;,
+        &quot;displayName&quot;: &quot;Dolmain Dricketts&quot;,
+        &quot;firstName&quot;: &quot;Dolmain&quot;,
+        &quot;lastName&quot;: &quot;Dricketts&quot;,
+        &quot;avatarUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/66294ccb9526e54f3c172604/b6759d0a-4000-4796-b8d2-64e6d1a1553b/500-500.png?format=300w&quot;,
+        &quot;websiteUrl&quot;: &quot;http://www.jonesncloths.com&quot;,
+        &quot;bio&quot;: &quot;&quot;,
+        &quot;avatarAssetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/66294ccb9526e54f3c172604/b6759d0a-4000-4796-b8d2-64e6d1a1553b/500-500.png?format=300w&quot;
+      },
+      &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/6f6f1b54-2527-4bd1-96d1-e7e1579a8752/New+Project+%281%29.png&quot;,
+      &quot;contentType&quot;: &quot;image/png&quot;,
+      &quot;items&quot;: [ ],
+      &quot;pushedServices&quot;: { },
+      &quot;pendingPushedServices&quot;: { },
+      &quot;originalSize&quot;: &quot;1142x1130&quot;,
+      &quot;recordTypeLabel&quot;: &quot;image&quot;
+    }
+  }, {
+    &quot;title&quot;: &quot;HATS&quot;,
+    &quot;description&quot;: &quot;&lt;p class=\&quot;\&quot; style=\&quot;white-space:pre-wrap;\&quot;&gt;$30-45&lt;\/p&gt;&quot;,
+    &quot;button&quot;: {
+      &quot;buttonText&quot;: &quot;VISIT&quot;,
+      &quot;buttonLink&quot;: &quot;https://jonesncloths.com/hats&quot;,
+      &quot;buttonNewWindow&quot;: true
+    },
+    &quot;imageAltText&quot;: &quot;Placeholder&quot;,
+    &quot;imageId&quot;: &quot;662b388e47a01a6c02e0bf8b&quot;,
+    &quot;image&quot;: {
+      &quot;id&quot;: &quot;662b388e47a01a6c02e0bf8b&quot;,
+      &quot;recordType&quot;: 2,
+      &quot;addedOn&quot;: 1714108558554,
+      &quot;updatedOn&quot;: 1714108558621,
+      &quot;tags&quot;: [ ],
+      &quot;workflowState&quot;: 1,
+      &quot;publishOn&quot;: 1714108558554,
+      &quot;authorId&quot;: &quot;66294ccb9526e54f3c172604&quot;,
+      &quot;systemDataId&quot;: &quot;7e579881-fa9d-42c3-8d7e-68fd9b1dc3eb&quot;,
+      &quot;systemDataVariants&quot;: &quot;1200x1200,100w,300w,500w,750w,1000w&quot;,
+      &quot;systemDataSourceType&quot;: &quot;PNG&quot;,
+      &quot;filename&quot;: &quot;Feel Good.png&quot;,
+      &quot;mediaFocalPoint&quot;: {
+        &quot;x&quot;: 0.5,
+        &quot;y&quot;: 0.5,
+        &quot;source&quot;: 3
+      },
+      &quot;colorData&quot;: {
+        &quot;topLeftAverage&quot;: &quot;f1f2f2&quot;,
+        &quot;topRightAverage&quot;: &quot;ebeceb&quot;,
+        &quot;bottomLeftAverage&quot;: &quot;c6ccd0&quot;,
+        &quot;bottomRightAverage&quot;: &quot;9fa5a7&quot;,
+        &quot;centerAverage&quot;: &quot;7e868f&quot;,
+        &quot;suggestedBgColor&quot;: &quot;94a8a2&quot;
+      },
+      &quot;urlId&quot;: &quot;ghwco8gjr64eq1irschr8n9gbk6dzf&quot;,
+      &quot;body&quot;: null,
+      &quot;location&quot;: {
+        &quot;mapZoom&quot;: 15.0
+      },
+      &quot;metadata&quot;: {
+        &quot;shutterSpeed&quot;: &quot;0/0&quot;,
+        &quot;isoSpeed&quot;: &quot;0&quot;,
+        &quot;focalLength&quot;: &quot;0&quot;
+      },
+      &quot;likeCount&quot;: 0,
+      &quot;commentCount&quot;: 0,
+      &quot;publicCommentCount&quot;: 0,
+      &quot;commentState&quot;: 2,
+      &quot;unsaved&quot;: false,
+      &quot;author&quot;: {
+        &quot;id&quot;: &quot;66294ccb9526e54f3c172604&quot;,
+        &quot;displayName&quot;: &quot;Dolmain Dricketts&quot;,
+        &quot;firstName&quot;: &quot;Dolmain&quot;,
+        &quot;lastName&quot;: &quot;Dricketts&quot;,
+        &quot;avatarUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/66294ccb9526e54f3c172604/b6759d0a-4000-4796-b8d2-64e6d1a1553b/500-500.png?format=300w&quot;,
+        &quot;websiteUrl&quot;: &quot;http://www.jonesncloths.com&quot;,
+        &quot;bio&quot;: &quot;&quot;,
+        &quot;avatarAssetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/66294ccb9526e54f3c172604/b6759d0a-4000-4796-b8d2-64e6d1a1553b/500-500.png?format=300w&quot;
+      },
+      &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/7e579881-fa9d-42c3-8d7e-68fd9b1dc3eb/Feel+Good.png&quot;,
+      &quot;contentType&quot;: &quot;image/png&quot;,
+      &quot;items&quot;: [ ],
+      &quot;pushedServices&quot;: { },
+      &quot;pendingPushedServices&quot;: { },
+      &quot;originalSize&quot;: &quot;1200x1200&quot;,
+      &quot;recordTypeLabel&quot;: &quot;image&quot;
+    }
+  }, {
+    &quot;title&quot;: &quot;HOODIES&quot;,
+    &quot;description&quot;: &quot;&lt;p class=\&quot;\&quot; style=\&quot;white-space:pre-wrap;\&quot;&gt;$30-50&lt;\/p&gt;&quot;,
+    &quot;button&quot;: {
+      &quot;buttonText&quot;: &quot;VISIT&quot;,
+      &quot;buttonLink&quot;: &quot;https://jonesncloths.com/hoodies&quot;,
+      &quot;buttonNewWindow&quot;: true
+    },
+    &quot;imageAltText&quot;: &quot;Placeholder&quot;,
+    &quot;imageId&quot;: &quot;662b2916033a9d2c474c01fc&quot;,
+    &quot;image&quot;: {
+      &quot;id&quot;: &quot;662b2916033a9d2c474c01fc&quot;,
+      &quot;recordType&quot;: 2,
+      &quot;addedOn&quot;: 1714104598849,
+      &quot;updatedOn&quot;: 1714104598915,
+      &quot;tags&quot;: [ ],
+      &quot;workflowState&quot;: 1,
+      &quot;publishOn&quot;: 1714104598849,
+      &quot;authorId&quot;: &quot;66294ccb9526e54f3c172604&quot;,
+      &quot;systemDataId&quot;: &quot;1eba9d1d-3b06-4072-b6f5-4e5692416d78&quot;,
+      &quot;systemDataVariants&quot;: &quot;1400x729,100w,300w,500w,750w,1000w&quot;,
+      &quot;systemDataSourceType&quot;: &quot;PNG&quot;,
+      &quot;filename&quot;: &quot;Feel Good (1).png&quot;,
+      &quot;mediaFocalPoint&quot;: {
+        &quot;x&quot;: 0.5,
+        &quot;y&quot;: 0.5,
+        &quot;source&quot;: 3
+      },
+      &quot;colorData&quot;: {
+        &quot;topLeftAverage&quot;: &quot;858477&quot;,
+        &quot;topRightAverage&quot;: &quot;848377&quot;,
+        &quot;bottomLeftAverage&quot;: &quot;3f3f38&quot;,
+        &quot;bottomRightAverage&quot;: &quot;1b1c17&quot;,
+        &quot;centerAverage&quot;: &quot;32332f&quot;,
+        &quot;suggestedBgColor&quot;: &quot;494942&quot;
+      },
+      &quot;urlId&quot;: &quot;7vga3zajjhf5l59nqdkmyqvyo19xhf&quot;,
+      &quot;body&quot;: null,
+      &quot;location&quot;: {
+        &quot;mapZoom&quot;: 15.0
+      },
+      &quot;metadata&quot;: {
+        &quot;shutterSpeed&quot;: &quot;0/0&quot;,
+        &quot;isoSpeed&quot;: &quot;0&quot;,
+        &quot;focalLength&quot;: &quot;0&quot;
+      },
+      &quot;likeCount&quot;: 0,
+      &quot;commentCount&quot;: 0,
+      &quot;publicCommentCount&quot;: 0,
+      &quot;commentState&quot;: 2,
+      &quot;unsaved&quot;: false,
+      &quot;author&quot;: {
+        &quot;id&quot;: &quot;66294ccb9526e54f3c172604&quot;,
+        &quot;displayName&quot;: &quot;Dolmain Dricketts&quot;,
+        &quot;firstName&quot;: &quot;Dolmain&quot;,
+        &quot;lastName&quot;: &quot;Dricketts&quot;,
+        &quot;avatarUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/66294ccb9526e54f3c172604/b6759d0a-4000-4796-b8d2-64e6d1a1553b/500-500.png?format=300w&quot;,
+        &quot;websiteUrl&quot;: &quot;http://www.jonesncloths.com&quot;,
+        &quot;bio&quot;: &quot;&quot;,
+        &quot;avatarAssetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/66294ccb9526e54f3c172604/b6759d0a-4000-4796-b8d2-64e6d1a1553b/500-500.png?format=300w&quot;
+      },
+      &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/1eba9d1d-3b06-4072-b6f5-4e5692416d78/Feel+Good+%281%29.png&quot;,
+      &quot;contentType&quot;: &quot;image/png&quot;,
+      &quot;items&quot;: [ ],
+      &quot;pushedServices&quot;: { },
+      &quot;pendingPushedServices&quot;: { },
+      &quot;originalSize&quot;: &quot;1400x729&quot;,
+      &quot;recordTypeLabel&quot;: &quot;image&quot;
+    }
+  } ],
+  &quot;styles&quot;: {
+    &quot;imageFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5
+    },
+    &quot;imageOverlayOpacity&quot;: 0.3,
+    &quot;backgroundColor&quot;: &quot;white&quot;,
+    &quot;sectionTheme&quot;: &quot;bright-inverse&quot;,
+    &quot;imageEffect&quot;: &quot;none&quot;,
+    &quot;backgroundMode&quot;: &quot;generative&quot;,
+    &quot;backgroundImage&quot;: null
+  },
+  &quot;video&quot;: {
+    &quot;filter&quot;: 1,
+    &quot;videoFallbackContentItem&quot;: null,
+    &quot;nativeVideoContentItem&quot;: null,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageFocalPoint&quot;: null,
+  &quot;backgroundImageId&quot;: null,
+  &quot;options&quot;: {
+    &quot;maxColumns&quot;: 3,
+    &quot;isCardEnabled&quot;: true,
+    &quot;isMediaEnabled&quot;: true,
+    &quot;isTitleEnabled&quot;: true,
+    &quot;isBodyEnabled&quot;: true,
+    &quot;isButtonEnabled&quot;: true,
+    &quot;mediaAspectRatio&quot;: &quot;circle&quot;,
+    &quot;layoutWidth&quot;: &quot;full&quot;,
+    &quot;mediaWidth&quot;: {
+      &quot;value&quot;: 100,
+      &quot;unit&quot;: &quot;%&quot;
+    },
+    &quot;mediaAlignment&quot;: &quot;center&quot;,
+    &quot;contentWidth&quot;: {
+      &quot;value&quot;: 100,
+      &quot;unit&quot;: &quot;%&quot;
+    },
+    &quot;titleAlignment&quot;: &quot;center&quot;,
+    &quot;bodyAlignment&quot;: &quot;center&quot;,
+    &quot;buttonAlignment&quot;: &quot;center&quot;,
+    &quot;titlePlacement&quot;: &quot;center&quot;,
+    &quot;bodyPlacement&quot;: &quot;center&quot;,
+    &quot;buttonPlacement&quot;: &quot;center&quot;,
+    &quot;cardVerticalAlignment&quot;: &quot;top&quot;,
+    &quot;contentOrder&quot;: &quot;media-first&quot;,
+    &quot;verticalPaddingTop&quot;: {
+      &quot;value&quot;: 10,
+      &quot;unit&quot;: &quot;vmax&quot;
+    },
+    &quot;verticalPaddingBottom&quot;: {
+      &quot;value&quot;: 10,
+      &quot;unit&quot;: &quot;vmax&quot;
+    },
+    &quot;spaceBetweenColumns&quot;: {
+      &quot;value&quot;: 100,
+      &quot;unit&quot;: &quot;px&quot;
+    },
+    &quot;spaceBetweenRows&quot;: {
+      &quot;value&quot;: 100,
+      &quot;unit&quot;: &quot;px&quot;
+    },
+    &quot;spaceBetweenContentAndMedia&quot;: {
+      &quot;value&quot;: 6,
+      &quot;unit&quot;: &quot;%&quot;
+    },
+    &quot;spaceBelowTitle&quot;: {
+      &quot;value&quot;: 6,
+      &quot;unit&quot;: &quot;%&quot;
+    },
+    &quot;spaceBelowBody&quot;: {
+      &quot;value&quot;: 6,
+      &quot;unit&quot;: &quot;%&quot;
+    },
+    &quot;cardPaddingTop&quot;: {
+      &quot;value&quot;: 2,
+      &quot;unit&quot;: &quot;%&quot;
+    },
+    &quot;cardPaddingRight&quot;: {
+      &quot;value&quot;: 2,
+      &quot;unit&quot;: &quot;%&quot;
+    },
+    &quot;cardPaddingBottom&quot;: {
+      &quot;value&quot;: 2,
+      &quot;unit&quot;: &quot;%&quot;
+    },
+    &quot;cardPaddingLeft&quot;: {
+      &quot;value&quot;: 2,
+      &quot;unit&quot;: &quot;%&quot;
+    },
+    &quot;titleFontSize&quot;: &quot;heading-2&quot;,
+    &quot;bodyFontSize&quot;: &quot;paragraph-2&quot;,
+    &quot;buttonFontSize&quot;: &quot;button-medium&quot;,
+    &quot;customOptions&quot;: {
+      &quot;customTitleFontSize&quot;: {
+        &quot;value&quot;: 3,
+        &quot;unit&quot;: &quot;rem&quot;
+      },
+      &quot;customBodyFontSize&quot;: {
+        &quot;value&quot;: 1.4,
+        &quot;unit&quot;: &quot;rem&quot;
+      },
+      &quot;customButtonFontSize&quot;: {
+        &quot;value&quot;: 1.1,
+        &quot;unit&quot;: &quot;rem&quot;
+      }
+    }
+  },
+  &quot;layout&quot;: &quot;simple&quot;,
+  &quot;isSectionTitleEnabled&quot;: true,
+  &quot;sectionTitle&quot;: &quot;&lt;p class=\&quot;\&quot; style=\&quot;white-space:pre-wrap;\&quot;&gt;&lt;span style=\&quot;text-decoration:underline\&quot;&gt;MOCKUP DESIGN&lt;\/span&gt;&lt;\/p&gt;&lt;p class=\&quot;\&quot; style=\&quot;white-space:pre-wrap;\&quot;&gt;&lt;strong&gt;&lt;em&gt;Welcome to Jones-N-Cloths, your ultimate destination for refined fashion and timeless sophistication.&lt;\/em&gt;&lt;\/strong&gt;&lt;\/p&gt;&quot;,
+  &quot;spaceBelowSectionTitle&quot;: {
+    &quot;value&quot;: 70,
+    &quot;unit&quot;: &quot;px&quot;
+  },
+  &quot;sectionTitleAlignment&quot;: &quot;center&quot;,
+  &quot;isSectionButtonEnabled&quot;: false,
+  &quot;sectionButton&quot;: {
+    &quot;buttonText&quot;: &quot;Shop&quot;,
+    &quot;buttonLink&quot;: &quot;https://www.jonesncloths.com/shop&quot;,
+    &quot;buttonNewWindow&quot;: true
+  },
+  &quot;sectionButtonSize&quot;: &quot;small&quot;,
+  &quot;sectionButtonAlignment&quot;: &quot;center&quot;,
+  &quot;spaceAboveSectionButton&quot;: {
+    &quot;value&quot;: 70,
+    &quot;unit&quot;: &quot;px&quot;
+  }
+}"
+  data-media-alignment="center"
+  data-title-alignment="center"
+  data-body-alignment="center"
+  data-button-alignment="center"
+  data-title-placement="center"
+  data-body-placement="center"
+  data-button-placement="center"
+  data-layout-width="full"
+  data-title-font-unit="rem"
+  data-description-font-unit="rem"
+  data-button-font-unit="rem"
+  data-space-between-rows="100px"
+  data-space-between-columns="100px"
+  data-vertical-padding-top-value="10"
+  data-vertical-padding-bottom-value="10"
+  data-vertical-padding-top-unit="vmax"
+  data-vertical-padding-bottom-unit="vmax"
+>
+  
+    
+    <li
+      class="
+        list-item
+        
+          list-item-basic-animation
+        
+      "
+      style="
+        
+          padding-top: 2%;
+          padding-right: 2%;
+          padding-bottom: 2%;
+          padding-left: 2%;
+        
+      "
+      data-is-card-enabled="true"
+    >
+      
+      
+      
+        
+  
+      <div class="list-item-media"
+        style="
+          
+            margin-bottom: 6%;
+          
+          width: 100%;
+        "
+      >
+        <div class="list-item-media-inner"
+          data-aspect-ratio="circle"
+          data-animation-role="image"
+        >
+<img alt="Placeholder" src="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/6f6f1b54-2527-4bd1-96d1-e7e1579a8752/New+Project+%281%29.png" data-image="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/6f6f1b54-2527-4bd1-96d1-e7e1579a8752/New+Project+%281%29.png" data-image-dimensions="1142x1130" data-image-focal-point="0.5,0.5" alt="New Project (1).png"  data-load="false" elementtiming="nbf-list-simple" src="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/6f6f1b54-2527-4bd1-96d1-e7e1579a8752/New+Project+%281%29.png" width="1142" height="1130" alt="" sizes="(max-width: 575px) calc((100vw - 0px) / 1 * 1.0106194690265486), (max-width: 767px) calc((100vw - 100px) / 2 * 1.0106194690265486), (max-width: 1099px) calc((100vw - 200px) / 3 * 1.0106194690265486), (max-width: 1199px) calc((100vw - 200px) / 3 * 1.0106194690265486), calc((100vw - 200px) / 3 * 1.0106194690265486)" class="list-image" style="display:block;object-position: 50% 50%;" srcset="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/6f6f1b54-2527-4bd1-96d1-e7e1579a8752/New+Project+%281%29.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/6f6f1b54-2527-4bd1-96d1-e7e1579a8752/New+Project+%281%29.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/6f6f1b54-2527-4bd1-96d1-e7e1579a8752/New+Project+%281%29.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/6f6f1b54-2527-4bd1-96d1-e7e1579a8752/New+Project+%281%29.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/6f6f1b54-2527-4bd1-96d1-e7e1579a8752/New+Project+%281%29.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/6f6f1b54-2527-4bd1-96d1-e7e1579a8752/New+Project+%281%29.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/6f6f1b54-2527-4bd1-96d1-e7e1579a8752/New+Project+%281%29.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs"></div>
+      </div>
+  
+
+
+        <div class="list-item-content">
+
+  
+    <div class="list-item-content__text-wrapper">
+
+      
+        <h2
+          class="list-item-content__title"
+          style="max-width: 100%;"
+        >T-SHIRT</h2>
+      
+
+      
+        <div class="list-item-content__description
+          
+          "
+          style="
+            margin-top: 6%;
+            max-width: 100%;
+          "
+        >
+          <p class="" style="white-space:pre-wrap;">$25-40</p>
+        </div>
+      
+
+    </div>
+  
+
+  
+    <div class="list-item-content__button-wrapper">
+
+      <div class="list-item-content__button-container"
+        style="
+          margin-top: 6%;
+          max-width: 100%;
+        "
+        data-animation-role="button"
+      >
+        <a class="
+            list-item-content__button
+            sqs-block-button-element
+            
+            
+              sqs-block-button-element--medium
+              sqs-button-element--primary
+            
+          "
+          href="https://jonesncloths.com/shirts"
+          target="_blank"
+        >VISIT</a>
+      </div>
+
+    </div>
+  
+</div>
+
+      
+      
+    </li>
+  
+    
+    <li
+      class="
+        list-item
+        
+          list-item-basic-animation
+        
+      "
+      style="
+        
+          padding-top: 2%;
+          padding-right: 2%;
+          padding-bottom: 2%;
+          padding-left: 2%;
+        
+      "
+      data-is-card-enabled="true"
+    >
+      
+      
+      
+        
+  
+      <div class="list-item-media"
+        style="
+          
+            margin-bottom: 6%;
+          
+          width: 100%;
+        "
+      >
+        <div class="list-item-media-inner"
+          data-aspect-ratio="circle"
+          data-animation-role="image"
+        >
+<img alt="Placeholder" src="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/7e579881-fa9d-42c3-8d7e-68fd9b1dc3eb/Feel+Good.png" data-image="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/7e579881-fa9d-42c3-8d7e-68fd9b1dc3eb/Feel+Good.png" data-image-dimensions="1200x1200" data-image-focal-point="0.5,0.5" alt="Feel Good.png"  data-load="false" elementtiming="nbf-list-simple" src="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/7e579881-fa9d-42c3-8d7e-68fd9b1dc3eb/Feel+Good.png" width="1200" height="1200" alt="" sizes="(max-width: 575px) calc((100vw - 0px) / 1), (max-width: 767px) calc((100vw - 100px) / 2), (max-width: 1099px) calc((100vw - 200px) / 3), (max-width: 1199px) calc((100vw - 200px) / 3), calc((100vw - 200px) / 3)" class="list-image" style="display:block;object-position: 50% 50%;" srcset="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/7e579881-fa9d-42c3-8d7e-68fd9b1dc3eb/Feel+Good.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/7e579881-fa9d-42c3-8d7e-68fd9b1dc3eb/Feel+Good.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/7e579881-fa9d-42c3-8d7e-68fd9b1dc3eb/Feel+Good.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/7e579881-fa9d-42c3-8d7e-68fd9b1dc3eb/Feel+Good.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/7e579881-fa9d-42c3-8d7e-68fd9b1dc3eb/Feel+Good.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/7e579881-fa9d-42c3-8d7e-68fd9b1dc3eb/Feel+Good.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/7e579881-fa9d-42c3-8d7e-68fd9b1dc3eb/Feel+Good.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs"></div>
+      </div>
+  
+
+
+        <div class="list-item-content">
+
+  
+    <div class="list-item-content__text-wrapper">
+
+      
+        <h2
+          class="list-item-content__title"
+          style="max-width: 100%;"
+        >HATS</h2>
+      
+
+      
+        <div class="list-item-content__description
+          
+          "
+          style="
+            margin-top: 6%;
+            max-width: 100%;
+          "
+        >
+          <p class="" style="white-space:pre-wrap;">$30-45</p>
+        </div>
+      
+
+    </div>
+  
+
+  
+    <div class="list-item-content__button-wrapper">
+
+      <div class="list-item-content__button-container"
+        style="
+          margin-top: 6%;
+          max-width: 100%;
+        "
+        data-animation-role="button"
+      >
+        <a class="
+            list-item-content__button
+            sqs-block-button-element
+            
+            
+              sqs-block-button-element--medium
+              sqs-button-element--primary
+            
+          "
+          href="https://jonesncloths.com/hats"
+          target="_blank"
+        >VISIT</a>
+      </div>
+
+    </div>
+  
+</div>
+
+      
+      
+    </li>
+  
+    
+    <li
+      class="
+        list-item
+        
+          list-item-basic-animation
+        
+      "
+      style="
+        
+          padding-top: 2%;
+          padding-right: 2%;
+          padding-bottom: 2%;
+          padding-left: 2%;
+        
+      "
+      data-is-card-enabled="true"
+    >
+      
+      
+      
+        
+  
+      <div class="list-item-media"
+        style="
+          
+            margin-bottom: 6%;
+          
+          width: 100%;
+        "
+      >
+        <div class="list-item-media-inner"
+          data-aspect-ratio="circle"
+          data-animation-role="image"
+        >
+<img alt="Placeholder" src="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/1eba9d1d-3b06-4072-b6f5-4e5692416d78/Feel+Good+%281%29.png" data-image="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/1eba9d1d-3b06-4072-b6f5-4e5692416d78/Feel+Good+%281%29.png" data-image-dimensions="1400x729" data-image-focal-point="0.5,0.5" alt="Feel Good (1).png"  data-load="false" elementtiming="nbf-list-simple" src="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/1eba9d1d-3b06-4072-b6f5-4e5692416d78/Feel+Good+%281%29.png" width="1400" height="729" alt="" sizes="(max-width: 575px) calc((100vw - 0px) / 1 * 1.9204389574759946), (max-width: 767px) calc((100vw - 100px) / 2 * 1.9204389574759946), (max-width: 1099px) calc((100vw - 200px) / 3 * 1.9204389574759946), (max-width: 1199px) calc((100vw - 200px) / 3 * 1.9204389574759946), calc((100vw - 200px) / 3 * 1.9204389574759946)" class="list-image" style="display:block;object-position: 50% 50%;" srcset="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/1eba9d1d-3b06-4072-b6f5-4e5692416d78/Feel+Good+%281%29.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/1eba9d1d-3b06-4072-b6f5-4e5692416d78/Feel+Good+%281%29.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/1eba9d1d-3b06-4072-b6f5-4e5692416d78/Feel+Good+%281%29.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/1eba9d1d-3b06-4072-b6f5-4e5692416d78/Feel+Good+%281%29.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/1eba9d1d-3b06-4072-b6f5-4e5692416d78/Feel+Good+%281%29.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/1eba9d1d-3b06-4072-b6f5-4e5692416d78/Feel+Good+%281%29.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/1eba9d1d-3b06-4072-b6f5-4e5692416d78/Feel+Good+%281%29.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs"></div>
+      </div>
+  
+
+
+        <div class="list-item-content">
+
+  
+    <div class="list-item-content__text-wrapper">
+
+      
+        <h2
+          class="list-item-content__title"
+          style="max-width: 100%;"
+        >HOODIES</h2>
+      
+
+      
+        <div class="list-item-content__description
+          
+          "
+          style="
+            margin-top: 6%;
+            max-width: 100%;
+          "
+        >
+          <p class="" style="white-space:pre-wrap;">$30-50</p>
+        </div>
+      
+
+    </div>
+  
+
+  
+    <div class="list-item-content__button-wrapper">
+
+      <div class="list-item-content__button-container"
+        style="
+          margin-top: 6%;
+          max-width: 100%;
+        "
+        data-animation-role="button"
+      >
+        <a class="
+            list-item-content__button
+            sqs-block-button-element
+            
+            
+              sqs-block-button-element--medium
+              sqs-button-element--primary
+            
+          "
+          href="https://jonesncloths.com/hoodies"
+          target="_blank"
+        >VISIT</a>
+      </div>
+
+    </div>
+  
+</div>
+
+      
+      
+    </li>
+  
+</ul>
+
+  
+
+  
+
+  
+
+  
+</div>
+
+      
+      
+      
+    </div>
+  
+    <button class='background-pause-button' aria-label=""></button>
+<button class='background-pause-button paused' aria-label=""></button>
+
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="bright"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+       has-background
+    
+    
+    bright'
+  
+  data-section-id="65b98c89ef5daf4cf0286817"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;663c2847b8db2a155232fe43&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1715218503711,
+    &quot;updatedOn&quot;: 1715218506128,
+    &quot;tags&quot;: [ ],
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1715218503711,
+    &quot;authorId&quot;: &quot;66294ccb9526e54f3c172604&quot;,
+    &quot;systemDataId&quot;: &quot;1715218503745-ZY3MSQSW81BRXTTT7XUC&quot;,
+    &quot;systemDataVariants&quot;: &quot;2500x1406,100w,300w,500w,750w,1000w,1500w,2500w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;6a6969&quot;,
+      &quot;topRightAverage&quot;: &quot;e29965&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;b62e11&quot;,
+      &quot;bottomRightAverage&quot;: &quot;cb5c1d&quot;,
+      &quot;centerAverage&quot;: &quot;e0dbc8&quot;,
+      &quot;suggestedBgColor&quot;: &quot;b27952&quot;
+    },
+    &quot;urlId&quot;: &quot;zrdjrpxshkqv9c325ldidjsfo6i4d8&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;location&quot;: {
+      &quot;mapZoom&quot;: 15.0,
+      &quot;mapLat&quot;: 0.0,
+      &quot;mapLng&quot;: 0.0,
+      &quot;addressTitle&quot;: &quot;&quot;,
+      &quot;addressCountry&quot;: &quot;&quot;
+    },
+    &quot;metadata&quot;: {
+      &quot;shutterSpeed&quot;: &quot;0/0&quot;,
+      &quot;apertureValue&quot;: &quot;&quot;,
+      &quot;isoSpeed&quot;: &quot;0&quot;,
+      &quot;focalLength&quot;: &quot;0&quot;,
+      &quot;cameraMake&quot;: &quot;&quot;,
+      &quot;cameraModel&quot;: &quot;&quot;,
+      &quot;copyrightHolder&quot;: &quot;&quot;,
+      &quot;copyrightNotice&quot;: &quot;&quot;
+    },
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;66294ccb9526e54f3c172604&quot;,
+      &quot;displayName&quot;: &quot;Dolmain Dricketts&quot;,
+      &quot;firstName&quot;: &quot;Dolmain&quot;,
+      &quot;lastName&quot;: &quot;Dricketts&quot;,
+      &quot;avatarUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/66294ccb9526e54f3c172604/b6759d0a-4000-4796-b8d2-64e6d1a1553b/500-500.png?format=300w&quot;,
+      &quot;websiteUrl&quot;: &quot;http://www.jonesncloths.com&quot;,
+      &quot;bio&quot;: &quot;&quot;,
+      &quot;avatarAssetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/66294ccb9526e54f3c172604/b6759d0a-4000-4796-b8d2-64e6d1a1553b/500-500.png?format=300w&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/1715218503745-ZY3MSQSW81BRXTTT7XUC/image-asset.jpeg&quot;,
+    &quot;contentType&quot;: &quot;image/jpeg&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;originalSize&quot;: &quot;2500x1406&quot;,
+    &quot;recordTypeLabel&quot;: &quot;image&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 0,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;bright&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;native&quot;,
+    &quot;nativeVideoContentItem&quot;: {
+      &quot;id&quot;: &quot;65c5872b924d9b677f673df7&quot;,
+      &quot;recordType&quot;: 61,
+      &quot;addedOn&quot;: 1707444011978,
+      &quot;updatedOn&quot;: 1707444011978,
+      &quot;authorId&quot;: &quot;66294ccb9526e54f3c172604&quot;,
+      &quot;systemDataId&quot;: &quot;dfeac6cd-29e4-4010-bd27-7e50f1775c71&quot;,
+      &quot;systemDataVariants&quot;: &quot;1080:1920,360:640&quot;,
+      &quot;systemDataSourceType&quot;: &quot;mp4&quot;,
+      &quot;filename&quot;: &quot;TikTok food vlog - Made with Clipchamp.mp4&quot;,
+      &quot;body&quot;: null,
+      &quot;likeCount&quot;: 0,
+      &quot;commentCount&quot;: 0,
+      &quot;publicCommentCount&quot;: 0,
+      &quot;commentState&quot;: 1,
+      &quot;author&quot;: {
+        &quot;id&quot;: &quot;66294ccb9526e54f3c172604&quot;,
+        &quot;displayName&quot;: &quot;Dolmain Dricketts&quot;,
+        &quot;firstName&quot;: &quot;Dolmain&quot;,
+        &quot;lastName&quot;: &quot;Dricketts&quot;,
+        &quot;avatarUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/66294ccb9526e54f3c172604/b6759d0a-4000-4796-b8d2-64e6d1a1553b/500-500.png?format=300w&quot;,
+        &quot;websiteUrl&quot;: &quot;http://www.jonesncloths.com&quot;,
+        &quot;bio&quot;: &quot;&quot;,
+        &quot;avatarAssetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/66294ccb9526e54f3c172604/b6759d0a-4000-4796-b8d2-64e6d1a1553b/500-500.png?format=300w&quot;
+      },
+      &quot;contentType&quot;: &quot;video/mp4&quot;,
+      &quot;structuredContent&quot;: {
+        &quot;_type&quot;: &quot;SqspHostedVideo&quot;,
+        &quot;videoCodec&quot;: &quot;h264&quot;,
+        &quot;audioCodec&quot;: &quot;aac&quot;,
+        &quot;alexandriaUrl&quot;: &quot;https://video.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/dfeac6cd-29e4-4010-bd27-7e50f1775c71/{variant}&quot;,
+        &quot;alexandriaLibraryId&quot;: &quot;65b98c836bb63e54e75e3b64&quot;,
+        &quot;aspectRatio&quot;: 0.5625,
+        &quot;durationSeconds&quot;: 17
+      },
+      &quot;videoCodec&quot;: &quot;h264&quot;,
+      &quot;audioCodec&quot;: &quot;aac&quot;,
+      &quot;alexandriaUrl&quot;: &quot;https://video.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/dfeac6cd-29e4-4010-bd27-7e50f1775c71/{variant}&quot;,
+      &quot;alexandriaLibraryId&quot;: &quot;65b98c836bb63e54e75e3b64&quot;,
+      &quot;aspectRatio&quot;: 0.5625,
+      &quot;durationSeconds&quot;: 17,
+      &quot;items&quot;: [ ],
+      &quot;pushedServices&quot;: { },
+      &quot;pendingPushedServices&quot;: { },
+      &quot;usageId&quot;: &quot;94e61261-eae9-3da7-80de-4c1be2224d0d&quot;,
+      &quot;originalSize&quot;: &quot;1080:1920&quot;,
+      &quot;recordTypeLabel&quot;: &quot;sqsp-hosted-video&quot;
+    }
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div
+    class="section-border"
+    
+  >
+    <div class="section-background">
+    
+      
+        
+        
+          
+
+
+
+
+
+  
+
+
+
+<img alt="" src="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/1715218503745-ZY3MSQSW81BRXTTT7XUC/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/1715218503745-ZY3MSQSW81BRXTTT7XUC/image-asset.jpeg" data-image-dimensions="2500x1406" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="nbf-background" src="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/1715218503745-ZY3MSQSW81BRXTTT7XUC/image-asset.jpeg" width="2500" height="1406" alt="" sizes="(max-width: 799px) 200vw, 100vw" style="display:block;object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/1715218503745-ZY3MSQSW81BRXTTT7XUC/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/1715218503745-ZY3MSQSW81BRXTTT7XUC/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/1715218503745-ZY3MSQSW81BRXTTT7XUC/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/1715218503745-ZY3MSQSW81BRXTTT7XUC/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/1715218503745-ZY3MSQSW81BRXTTT7XUC/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/1715218503745-ZY3MSQSW81BRXTTT7XUC/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/1715218503745-ZY3MSQSW81BRXTTT7XUC/image-asset.jpeg?format=2500w 2500w" fetchpriority="low" loading="lazy" decoding="async" data-loader="sqs">
+
+
+
+
+        
+        <div class="section-background-overlay" style="opacity: 0.15;"></div>
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+          
+          
+          padding-top: calc(0vmax / 10); padding-bottom: calc(0vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-65b98c89ef5daf4cf0286816 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(18,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-65b98c89ef5daf4cf0286816 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-65b98c89ef5daf4cf0286816 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(19,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-2034178a3d23ce50e17b {
+    grid-area: 2/2/5/8;
+    z-index: 1;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-2034178a3d23ce50e17b .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-2034178a3d23ce50e17b .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-2034178a3d23ce50e17b {
+      grid-area: 3/2/8/22;
+      z-index: 1;
+
+      
+    }
+
+    .fe-block-2034178a3d23ce50e17b .sqs-block {
+      justify-content: flex-end;
+    }
+
+    .fe-block-2034178a3d23ce50e17b .sqs-block-alignment-wrapper {
+      align-items: flex-end;
+    }
+  }
+
+  .fe-block-49db2d952a0fae8dd566 {
+    grid-area: 5/2/10/10;
+    z-index: 4;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-49db2d952a0fae8dd566 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-49db2d952a0fae8dd566 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-49db2d952a0fae8dd566 {
+      grid-area: 10/2/18/14;
+      z-index: 4;
+
+      
+    }
+
+    .fe-block-49db2d952a0fae8dd566 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-49db2d952a0fae8dd566 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-350ca975ab511f36099f {
+    grid-area: 10/2/12/6;
+    z-index: 3;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-350ca975ab511f36099f .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-350ca975ab511f36099f .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-350ca975ab511f36099f {
+      grid-area: 16/5/18/9;
+      z-index: 3;
+
+      
+    }
+
+    .fe-block-350ca975ab511f36099f .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-350ca975ab511f36099f .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1715136641460_27800 {
+    grid-area: 12/2/18/10;
+    z-index: 5;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1715136641460_27800 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1715136641460_27800 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1715136641460_27800 {
+      grid-area: 8/14/19/25;
+      z-index: 5;
+
+      
+        
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1715136641460_27800 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1715136641460_27800 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-65b98c89ef5daf4cf0286816"><div class="fe-block fe-block-2034178a3d23ce50e17b"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-2034178a3d23ce50e17b"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <div class="sqsrte-scaled-text-container"><span class="sqsrte-scaled-text"><h3 style="white-space:pre-wrap;">Discover Our Story </h3></span></div><div class="sqsrte-scaled-text-container"><span class="sqsrte-scaled-text"><h3 style="white-space:pre-wrap;">JonesnClothes printing technique</h3></span></div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-49db2d952a0fae8dd566"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-49db2d952a0fae8dd566"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="sqsrte-large" style="white-space:pre-wrap;">Welcome to JonesnClothes, where every print tells a story, and every story is a piece of art. Our journey is a tapestry of passion, creativity, and an unwavering commitment to turning ordinary garments into extraordinary canvases.</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-350ca975ab511f36099f"><div class="sqs-block button-block sqs-block-button sqs-stretched" data-block-type="53" id="block-350ca975ab511f36099f"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container sqs-block-button-container--center"
+  data-animation-role="button"
+  data-alignment="center"
+  data-button-size="medium"
+  data-button-type="primary"
+>
+  <a
+    href="/about"
+    class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+    
+  >
+    Learn More
+  </a>
+</div>
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1715136641460_27800"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-yui_3_17_2_1_1715136641460_27800"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fit">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/38a9f3fa-2a76-4f0f-966b-206e01c1bfa0/Duck+%281%29.jpg" data-image="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/38a9f3fa-2a76-4f0f-966b-206e01c1bfa0/Duck+%281%29.jpg" data-image-dimensions="5000x5500" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/38a9f3fa-2a76-4f0f-966b-206e01c1bfa0/Duck+%281%29.jpg" width="5000" height="5500" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 45.83333333333333vw" style="display:block;object-fit: contain; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/38a9f3fa-2a76-4f0f-966b-206e01c1bfa0/Duck+%281%29.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/38a9f3fa-2a76-4f0f-966b-206e01c1bfa0/Duck+%281%29.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/38a9f3fa-2a76-4f0f-966b-206e01c1bfa0/Duck+%281%29.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/38a9f3fa-2a76-4f0f-966b-206e01c1bfa0/Duck+%281%29.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/38a9f3fa-2a76-4f0f-966b-206e01c1bfa0/Duck+%281%29.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/38a9f3fa-2a76-4f0f-966b-206e01c1bfa0/Duck+%281%29.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/38a9f3fa-2a76-4f0f-966b-206e01c1bfa0/Duck+%281%29.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-yui_3_17_2_1_1715136641460_27800 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="bright-inverse"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--inset
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+    
+    bright-inverse'
+  
+  data-section-id="65ee0a3ca8df7b34e22bec18"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--inset&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;bright-inverse&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;video&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 1,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border"
+    
+  >
+    <div class="section-background">
+    
+      
+        
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-65ee0a3ca8df7b34e22bec17 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(32,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-65ee0a3ca8df7b34e22bec17 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-65ee0a3ca8df7b34e22bec17 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(42,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-yui_3_17_2_1_1712261009746_10212 {
+    grid-area: 1/2/3/10;
+    z-index: 2;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1712261009746_10212 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1712261009746_10212 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1712261009746_10212 {
+      grid-area: 1/7/7/25;
+      z-index: 2;
+
+      
+        
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1712261009746_10212 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1712261009746_10212 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-8734407d3adea08b5960 {
+    grid-area: 3/2/11/10;
+    z-index: 0;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-8734407d3adea08b5960 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-8734407d3adea08b5960 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-8734407d3adea08b5960 {
+      grid-area: 4/3/43/15;
+      z-index: 0;
+
+      
+    }
+
+    .fe-block-8734407d3adea08b5960 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-8734407d3adea08b5960 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1714417027864_12819 {
+    grid-area: 11/2/13/10;
+    z-index: 6;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1714417027864_12819 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1714417027864_12819 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1714417027864_12819 {
+      grid-area: 38/3/40/9;
+      z-index: 6;
+
+      
+        
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1714417027864_12819 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1714417027864_12819 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1714086664334_25247 {
+    grid-area: 13/2/21/10;
+    z-index: 5;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1714086664334_25247 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1714086664334_25247 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1714086664334_25247 {
+      grid-area: 8/16/20/24;
+      z-index: 5;
+
+      
+        
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1714086664334_25247 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1714086664334_25247 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1714086664334_18451 {
+    grid-area: 21/2/29/10;
+    z-index: 4;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1714086664334_18451 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1714086664334_18451 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1714086664334_18451 {
+      grid-area: 22/14/35/27;
+      z-index: 4;
+
+      
+        
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1714086664334_18451 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1714086664334_18451 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1712261009746_14610 {
+    grid-area: 29/2/31/6;
+    z-index: 3;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1712261009746_14610 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1712261009746_14610 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1712261009746_14610 {
+      grid-area: 32/18/34/22;
+      z-index: 3;
+
+      
+        
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1712261009746_14610 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1712261009746_14610 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-65ee0a3ca8df7b34e22bec17"><div class="fe-block fe-block-yui_3_17_2_1_1712261009746_10212"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1712261009746_10212"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h1 style="white-space:pre-wrap;">Book a mockup</h1>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-8734407d3adea08b5960"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-8734407d3adea08b5960"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h2 data-rte-preserve-empty="true" style="white-space:pre-wrap;"></h2><p class="sqsrte-large" style="white-space:pre-wrap;"><strong>  Choose a Mockup Generator:</strong></p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Online platforms like Placeit, Canva, or Adobe Spark offer user-friendly mockup generators. Select one that fits your needs.</p></li></ul><ol data-rte-list="default"><li><p class="sqsrte-large" style="white-space:pre-wrap;"><strong>Select a Product:</strong></p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Choose the type of product you want to showcase, such as a t-shirt, hoodie, or any other apparel item.</p></li></ul></li><li><p class="sqsrte-large" style="white-space:pre-wrap;"><strong>Upload Your Designs:</strong></p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Upload your logo or any specific graphic design you want to see on the product.</p></li></ul></li><li><p class="sqsrte-large" style="white-space:pre-wrap;"><strong>Customize the Mockup:</strong></p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Adjust the placement, size, and orientation of your design on the product. Some tools also allow you to change the color of the garment.</p></li></ul></li><li><p class="sqsrte-large" style="white-space:pre-wrap;"><strong>Choose a Background:</strong></p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Select a background that complements your brand. Consider using a clean and neutral backdrop to highlight the clothing.</p></li></ul></li><li><p class="sqsrte-large" style="white-space:pre-wrap;"><strong>Download or Share:</strong></p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Once satisfied with the mockup, download the image file or share it directly from the platform.</p></li></ul></li></ol><p class="" style="white-space:pre-wrap;">If you're looking for more realistic mockups or have specific requirements, you might also consider hiring a graphic designer or using professional mockup services that cater to your industry.</p><p class="" style="white-space:pre-wrap;">Remember to ensure that your mockup aligns with your brand identity and effectively showcases your clothing items.</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1714417027864_12819"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1714417027864_12819"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">ads</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1714086664334_25247"><div class="sqs-block video-block sqs-block-video" data-block-json="&#123;&quot;blockAnimation&quot;:&quot;none&quot;,&quot;layout&quot;:&quot;caption-hidden&quot;,&quot;overlay&quot;:false,&quot;description&quot;:&#123;&#125;,&quot;isOldBlock&quot;:false,&quot;resolvedBy&quot;:&quot;native&quot;,&quot;nativeVideo&quot;:&quot;662af53dcbd73d095b904037&quot;,&quot;nativeVideoAssetId&quot;:&quot;89539f74-60ea-400b-82b7-b59e777ae018&quot;&#125;" data-block-type="32" id="block-yui_3_17_2_1_1714086664334_25247"><div class="sqs-block-content"><div class="intrinsic" style="max-width:100%"><div class="embed-block-wrapper " style="padding-bottom:0.5625%;"><div class="sqs-native-video" data-config-block-id="yui_3_17_2_1_1714086664334_25247" data-config-settings="null" data-config-thumbnail="null" data-config-video="&#123;&quot;id&quot;:&quot;662af53dcbd73d095b904037&quot;,&quot;recordType&quot;:61,&quot;addedOn&quot;:1714091325101,&quot;updatedOn&quot;:1714091399932,&quot;workflowState&quot;:1,&quot;authorId&quot;:&quot;66294ccb9526e54f3c172604&quot;,&quot;systemDataId&quot;:&quot;89539f74-60ea-400b-82b7-b59e777ae018&quot;,&quot;systemDataVariants&quot;:&quot;1920:1080,640:360&quot;,&quot;systemDataSourceType&quot;:&quot;mp4&quot;,&quot;filename&quot;:&quot;t-shirt - Made with Clipchamp.mp4&quot;,&quot;body&quot;:null,&quot;likeCount&quot;:0,&quot;commentCount&quot;:0,&quot;publicCommentCount&quot;:0,&quot;commentState&quot;:1,&quot;unsaved&quot;:false,&quot;author&quot;:&#123;&quot;id&quot;:&quot;66294ccb9526e54f3c172604&quot;,&quot;displayName&quot;:&quot;Dolmain Dricketts&quot;,&quot;firstName&quot;:&quot;Dolmain&quot;,&quot;lastName&quot;:&quot;Dricketts&quot;,&quot;avatarUrl&quot;:&quot;https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/66294ccb9526e54f3c172604/b6759d0a-4000-4796-b8d2-64e6d1a1553b/500-500.png?format=300w&quot;,&quot;websiteUrl&quot;:&quot;http://www.jonesncloths.com&quot;,&quot;bio&quot;:&quot;&quot;,&quot;avatarAssetUrl&quot;:&quot;https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/66294ccb9526e54f3c172604/b6759d0a-4000-4796-b8d2-64e6d1a1553b/500-500.png?format=300w&quot;&#125;,&quot;contentType&quot;:&quot;video/mp4&quot;,&quot;structuredContent&quot;:&#123;&quot;_type&quot;:&quot;SqspHostedVideo&quot;,&quot;videoCodec&quot;:&quot;h264&quot;,&quot;audioCodec&quot;:&quot;aac&quot;,&quot;alexandriaUrl&quot;:&quot;https://video.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/89539f74-60ea-400b-82b7-b59e777ae018/&#123;variant&#125;&quot;,&quot;alexandriaLibraryId&quot;:&quot;65b98c836bb63e54e75e3b64&quot;,&quot;aspectRatio&quot;:1.7777777777777777,&quot;durationSeconds&quot;:25.033333&#125;,&quot;videoCodec&quot;:&quot;h264&quot;,&quot;audioCodec&quot;:&quot;aac&quot;,&quot;alexandriaUrl&quot;:&quot;https://video.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/89539f74-60ea-400b-82b7-b59e777ae018/&#123;variant&#125;&quot;,&quot;alexandriaLibraryId&quot;:&quot;65b98c836bb63e54e75e3b64&quot;,&quot;aspectRatio&quot;:1.7777777777777777,&quot;durationSeconds&quot;:25.033333,&quot;items&quot;:[],&quot;pushedServices&quot;:&#123;&#125;,&quot;pendingPushedServices&quot;:&#123;&#125;,&quot;usageId&quot;:&quot;815b4162-878b-3ba0-8272-674d5ddc94a1&quot;,&quot;originalSize&quot;:&quot;1920:1080&quot;,&quot;recordTypeLabel&quot;:&quot;sqsp-hosted-video&quot;&#125;"><div class="native-video-player"></div></div></div></div></div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1714086664334_18451"><div class="sqs-block video-block sqs-block-video" data-block-json="&#123;&quot;blockAnimation&quot;:&quot;none&quot;,&quot;layout&quot;:&quot;caption-hidden&quot;,&quot;overlay&quot;:false,&quot;description&quot;:&#123;&#125;,&quot;isOldBlock&quot;:false,&quot;settings&quot;:&#123;&quot;muted&quot;:false,&quot;autoPlay&quot;:false,&quot;loop&quot;:true,&quot;controls&quot;:&quot;none&quot;&#125;,&quot;url&quot;:&quot;&quot;,&quot;resolvedBy&quot;:&quot;native&quot;,&quot;nativeVideo&quot;:&quot;662af116321915381aa519dd&quot;&#125;" data-block-type="32" id="block-yui_3_17_2_1_1714086664334_18451"><div class="sqs-block-content"><div class="intrinsic" style="max-width:100%"><div class="embed-block-wrapper " style="padding-bottom:1.7777778%;"><div class="sqs-native-video" data-config-block-id="yui_3_17_2_1_1714086664334_18451" data-config-settings="&#123;&quot;muted&quot;:false,&quot;autoPlay&quot;:false,&quot;loop&quot;:true,&quot;controls&quot;:&quot;none&quot;&#125;" data-config-thumbnail="null" data-config-video="&#123;&quot;id&quot;:&quot;662af116321915381aa519dd&quot;,&quot;recordType&quot;:61,&quot;addedOn&quot;:1714090262421,&quot;updatedOn&quot;:1714090415462,&quot;workflowState&quot;:1,&quot;authorId&quot;:&quot;66294ccb9526e54f3c172604&quot;,&quot;systemDataId&quot;:&quot;4d27805d-9ed4-4557-a079-8617e64fcaba&quot;,&quot;systemDataVariants&quot;:&quot;1080:1920,360:640&quot;,&quot;systemDataSourceType&quot;:&quot;mp4&quot;,&quot;filename&quot;:&quot;BAGS - Made with Clipchamp.mp4&quot;,&quot;body&quot;:null,&quot;likeCount&quot;:0,&quot;commentCount&quot;:0,&quot;publicCommentCount&quot;:0,&quot;commentState&quot;:1,&quot;unsaved&quot;:false,&quot;author&quot;:&#123;&quot;id&quot;:&quot;66294ccb9526e54f3c172604&quot;,&quot;displayName&quot;:&quot;Dolmain Dricketts&quot;,&quot;firstName&quot;:&quot;Dolmain&quot;,&quot;lastName&quot;:&quot;Dricketts&quot;,&quot;avatarUrl&quot;:&quot;https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/66294ccb9526e54f3c172604/b6759d0a-4000-4796-b8d2-64e6d1a1553b/500-500.png?format=300w&quot;,&quot;websiteUrl&quot;:&quot;http://www.jonesncloths.com&quot;,&quot;bio&quot;:&quot;&quot;,&quot;avatarAssetUrl&quot;:&quot;https://images.squarespace-cdn.com/content/v2/namespaces/memberAccountAvatars/libraries/66294ccb9526e54f3c172604/b6759d0a-4000-4796-b8d2-64e6d1a1553b/500-500.png?format=300w&quot;&#125;,&quot;contentType&quot;:&quot;video/mp4&quot;,&quot;structuredContent&quot;:&#123;&quot;_type&quot;:&quot;SqspHostedVideo&quot;,&quot;videoCodec&quot;:&quot;h264&quot;,&quot;audioCodec&quot;:&quot;aac&quot;,&quot;alexandriaUrl&quot;:&quot;https://video.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/4d27805d-9ed4-4557-a079-8617e64fcaba/&#123;variant&#125;&quot;,&quot;alexandriaLibraryId&quot;:&quot;65b98c836bb63e54e75e3b64&quot;,&quot;aspectRatio&quot;:0.5625,&quot;durationSeconds&quot;:18.033333&#125;,&quot;videoCodec&quot;:&quot;h264&quot;,&quot;audioCodec&quot;:&quot;aac&quot;,&quot;alexandriaUrl&quot;:&quot;https://video.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/4d27805d-9ed4-4557-a079-8617e64fcaba/&#123;variant&#125;&quot;,&quot;alexandriaLibraryId&quot;:&quot;65b98c836bb63e54e75e3b64&quot;,&quot;aspectRatio&quot;:0.5625,&quot;durationSeconds&quot;:18.033333,&quot;items&quot;:[],&quot;pushedServices&quot;:&#123;&#125;,&quot;pendingPushedServices&quot;:&#123;&#125;,&quot;usageId&quot;:&quot;c51bec56-4c03-3634-b2c6-91d8ddaeb894&quot;,&quot;originalSize&quot;:&quot;1080:1920&quot;,&quot;recordTypeLabel&quot;:&quot;sqsp-hosted-video&quot;&#125;"><div class="native-video-player"></div></div></div></div></div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1712261009746_14610"><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_1_1712261009746_14610"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container sqs-block-button-container--center"
+  data-animation-role="button"
+  data-alignment="center"
+  data-button-size="medium"
+  data-button-type="primary"
+>
+  <a
+    href=""
+    class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+    
+  >
+    Learn more
+  </a>
+</div>
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>home</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/about</link>
+      <title>About</title>
+      <pubDate>Mon, 29 Apr 2024 19:44:57 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="65b98f887e63d877e5e221a2">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="bright-inverse"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    bright-inverse'
+  
+  data-section-id="65b98f887e63d877e5e221a6"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;bright-inverse&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 2,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div
+    class="section-border"
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-65b98f887e63d877e5e221a5 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(36,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-65b98f887e63d877e5e221a5 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-65b98f887e63d877e5e221a5 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(35,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-54702e3c93ebd45e072b {
+    grid-area: 1/2/15/10;
+    z-index: 0;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-54702e3c93ebd45e072b .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-54702e3c93ebd45e072b .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-54702e3c93ebd45e072b {
+      grid-area: 5/16/18/25;
+      z-index: 0;
+
+      
+    }
+
+    .fe-block-54702e3c93ebd45e072b .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-54702e3c93ebd45e072b .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1712247191145_2953 {
+    grid-area: 15/2/21/10;
+    z-index: 3;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1712247191145_2953 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1712247191145_2953 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1712247191145_2953 {
+      grid-area: 18/16/34/25;
+      z-index: 3;
+
+      
+        
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1712247191145_2953 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1712247191145_2953 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-5d2e448f186a92274f71 {
+    grid-area: 21/2/23/10;
+    z-index: 1;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-5d2e448f186a92274f71 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-5d2e448f186a92274f71 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-5d2e448f186a92274f71 {
+      grid-area: 1/7/4/24;
+      z-index: 1;
+
+      
+    }
+
+    .fe-block-5d2e448f186a92274f71 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-5d2e448f186a92274f71 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-b1fb6a449741cd38ebf6 {
+    grid-area: 23/2/35/10;
+    z-index: 2;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-b1fb6a449741cd38ebf6 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-b1fb6a449741cd38ebf6 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-b1fb6a449741cd38ebf6 {
+      grid-area: 5/3/35/16;
+      z-index: 2;
+
+      
+    }
+
+    .fe-block-b1fb6a449741cd38ebf6 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-b1fb6a449741cd38ebf6 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1714417027864_2474 {
+    grid-area: 35/2/37/10;
+    z-index: 4;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1714417027864_2474 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1714417027864_2474 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1714417027864_2474 {
+      grid-area: 30/3/32/9;
+      z-index: 4;
+
+      
+        
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1714417027864_2474 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1714417027864_2474 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-65b98f887e63d877e5e221a5"><div class="fe-block fe-block-54702e3c93ebd45e072b"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-54702e3c93ebd45e072b"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-right
+        combination-animation-none
+        individual-animation-none
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fit">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/0c74231a-69a9-4d9e-9442-60476f8b3166/New+Project+%281%29.png" data-image="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/0c74231a-69a9-4d9e-9442-60476f8b3166/New+Project+%281%29.png" data-image-dimensions="1200x1200" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/0c74231a-69a9-4d9e-9442-60476f8b3166/New+Project+%281%29.png" width="1200" height="1200" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 37.5vw" style="display:block;object-fit: contain; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/0c74231a-69a9-4d9e-9442-60476f8b3166/New+Project+%281%29.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/0c74231a-69a9-4d9e-9442-60476f8b3166/New+Project+%281%29.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/0c74231a-69a9-4d9e-9442-60476f8b3166/New+Project+%281%29.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/0c74231a-69a9-4d9e-9442-60476f8b3166/New+Project+%281%29.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/0c74231a-69a9-4d9e-9442-60476f8b3166/New+Project+%281%29.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/0c74231a-69a9-4d9e-9442-60476f8b3166/New+Project+%281%29.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/0c74231a-69a9-4d9e-9442-60476f8b3166/New+Project+%281%29.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-54702e3c93ebd45e072b .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1712247191145_2953"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-yui_3_17_2_1_1712247191145_2953"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fit">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/d7d078ff-aacf-4edc-9305-b46d6e088109/New+Project+%281%29.png" data-image="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/d7d078ff-aacf-4edc-9305-b46d6e088109/New+Project+%281%29.png" data-image-dimensions="1200x1200" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/d7d078ff-aacf-4edc-9305-b46d6e088109/New+Project+%281%29.png" width="1200" height="1200" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 37.5vw" style="display:block;object-fit: contain; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/d7d078ff-aacf-4edc-9305-b46d6e088109/New+Project+%281%29.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/d7d078ff-aacf-4edc-9305-b46d6e088109/New+Project+%281%29.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/d7d078ff-aacf-4edc-9305-b46d6e088109/New+Project+%281%29.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/d7d078ff-aacf-4edc-9305-b46d6e088109/New+Project+%281%29.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/d7d078ff-aacf-4edc-9305-b46d6e088109/New+Project+%281%29.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/d7d078ff-aacf-4edc-9305-b46d6e088109/New+Project+%281%29.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/d7d078ff-aacf-4edc-9305-b46d6e088109/New+Project+%281%29.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-yui_3_17_2_1_1712247191145_2953 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-5d2e448f186a92274f71"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-5d2e448f186a92274f71"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h2 style="white-space:pre-wrap;">ABOUT Jones-n-Cloths</h2>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-b1fb6a449741cd38ebf6"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-b1fb6a449741cd38ebf6"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;"><strong>Official Website:</strong> If JonesnClothes has an official website, it's likely to provide detailed information about the brand, its history, and the products or services it offers.</p><ol data-rte-list="default"><li><p class="" style="white-space:pre-wrap;"><strong>Social Media:</strong> Brands often maintain a strong presence on social media platforms. Check for official accounts on platforms like Instagram, Facebook, Twitter, or Pinterest to get updates and insights.</p></li><li><p class="" style="white-space:pre-wrap;"><strong>Online Retail Platforms:</strong> If JonesnClothes sells products online, you may find additional details on e-commerce platforms where its products are listed.</p></li><li><p class="" style="white-space:pre-wrap;"><strong>Press Releases:</strong> Look for any press releases or news articles related to JonesnClothes. This can provide information about recent developments, collaborations, or events associated with the brand.</p></li><li><p class="" style="white-space:pre-wrap;"><strong>Customer Reviews:</strong> If the brand has been around for a while, customer reviews on various platforms can offer insights into the quality of its products and customer satisfaction.</p></li><li><p class="" style="white-space:pre-wrap;"><strong>Fashion Blogs and Magazines:</strong> Check fashion blogs, magazines, or online publications for any features or articles about JonesnClothes.</p></li></ol><p class="" style="white-space:pre-wrap;">Remember that for the most accurate and up-to-date information, checking the brand's official channels is usually the best approach. If JonesnClothes is a very new or niche brand, it might be worth keeping an eye on emerging fashion trends and platforms for the latest updates.</p><p class="" style="white-space:pre-wrap;"><br></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1714417027864_2474"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1714417027864_2474"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">ads.txt</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>about</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/contact</link>
+      <title>Contact</title>
+      <pubDate>Mon, 29 Apr 2024 00:32:38 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="65b98f88cd5ab27b19438cef">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="bright-inverse"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    bright-inverse'
+  
+  data-section-id="65b98f88cd5ab27b19438cf3"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;sectionTheme&quot;: &quot;bright-inverse&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+  
+>
+  <div
+    class="section-border"
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-65b98f88cd5ab27b19438cf2 {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(22,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-65b98f88cd5ab27b19438cf2 {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-65b98f88cd5ab27b19438cf2 {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(12,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-d69beea5c2c930f367b5 {
+    grid-area: 1/2/7/10;
+    z-index: 0;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-d69beea5c2c930f367b5 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-d69beea5c2c930f367b5 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-d69beea5c2c930f367b5 {
+      grid-area: 1/2/11/12;
+      z-index: 0;
+
+      
+    }
+
+    .fe-block-d69beea5c2c930f367b5 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-d69beea5c2c930f367b5 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-1190ebe9cc452ce189b8 {
+    grid-area: 7/2/9/10;
+    z-index: 1;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-1190ebe9cc452ce189b8 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-1190ebe9cc452ce189b8 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-1190ebe9cc452ce189b8 {
+      grid-area: 12/2/13/12;
+      z-index: 1;
+
+      
+    }
+
+    .fe-block-1190ebe9cc452ce189b8 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-1190ebe9cc452ce189b8 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-d764e7205acc84de4236 {
+    grid-area: 9/2/23/10;
+    z-index: 2;
+
+    @media (max-width: 767px) {
+      
+    }
+  }
+
+  .fe-block-d764e7205acc84de4236 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-d764e7205acc84de4236 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-d764e7205acc84de4236 {
+      grid-area: 1/14/11/26;
+      z-index: 2;
+
+      
+    }
+
+    .fe-block-d764e7205acc84de4236 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-d764e7205acc84de4236 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-65b98f88cd5ab27b19438cf2"><div class="fe-block fe-block-d69beea5c2c930f367b5"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-d69beea5c2c930f367b5"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h2 style="white-space:pre-wrap;">Get in Touch</h2><p class="sqsrte-large" style="white-space:pre-wrap;">Drop us a line and let us know how we can help. We'll get back to you as soon as possible. </p><p class="" style="white-space:pre-wrap;"><a href="https://support@jonesncloths'com" target="_blank">support@jonesncloths.com</a><br>(614) 822-7298</p><p class="" style="white-space:pre-wrap;">2210 sullivan rd<br>college park, ga 30337</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-1190ebe9cc452ce189b8"><div class="sqs-block socialaccountlinks-v2-block sqs-block-socialaccountlinks-v2" data-block-type="54" id="block-1190ebe9cc452ce189b8"><div class="sqs-block-content">
+
+
+
+<div class="sqs-svg-icon--outer social-icon-alignment-left social-icons-color- social-icons-size-small social-icons-style-regular " >
+  <style>
+    #block-1190ebe9cc452ce189b8 .social-icons-style-border .sqs-svg-icon--wrapper {
+      
+        box-shadow: 0 0 0 2px inset;
+      
+      border: none; 
+    }
+  </style>
+  <nav class="sqs-svg-icon--list">
+    <a href="https://www.tiktok.com/@jonesnclothes" target="_blank" class="sqs-svg-icon--wrapper tiktok-unauth" aria-label="TikTok">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#tiktok-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#tiktok-unauth-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://www.youtube.com/@jonesncloths" target="_blank" class="sqs-svg-icon--wrapper youtube-unauth" aria-label="YouTube">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#youtube-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#youtube-unauth-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://twitter.com/jonesnclothes" target="_blank" class="sqs-svg-icon--wrapper twitter-unauth" aria-label="Twitter">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#twitter-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#twitter-unauth-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://www.facebook.com/JONESNCLOTHS" target="_blank" class="sqs-svg-icon--wrapper facebook-unauth" aria-label="Facebook">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#facebook-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#facebook-unauth-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://www.pinterest.com/jonesncloths/" target="_blank" class="sqs-svg-icon--wrapper pinterest-unauth" aria-label="Pinterest">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#pinterest-unauth-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#pinterest-unauth-mask"></use>
+        </svg>
+      </div>
+    </a>
+  </nav>
+</div>
+</div></div></div><div class="fe-block fe-block-d764e7205acc84de4236"><div class="sqs-block form-block sqs-block-form" data-blend-mode="NORMAL" data-block-type="9" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-d764e7205acc84de4236"><div class="sqs-block-content">
+
+  <script type="application/json" id="form-context-65b98f88cd5ab27b19438cee" class="sqs-form-block-context">{"secureUrl":"https://heron-cat-4jzp.squarespace.com","formSubmitButtonText":"Send","formSubmissionMessage":{"html":"Thank you!"},"submissionVerticalAlignment":"","buttonAlignment":"left","submissionMessageTextStyle":"","formName":"New Form 2","collectionId":"65b98f88cd5ab27b19438cf0","submissionAnimation":"","captchaTheme":1,"formId":"65b98f88cd5ab27b19438cee","useLightbox":false,"firstFieldHighlightType":"","successRedirect":"","useFormsJs":true,"submissionTextAlignment":"","formFieldFormats":{"countries":[{"name":"Afghanistan","code":"AF","phoneCode":"+93"},{"name":"Åland Islands","code":"AX","phoneCode":"+358"},{"name":"Albania","code":"AL","phoneCode":"+355"},{"name":"Algeria","code":"DZ","phoneCode":"+213"},{"name":"American Samoa","code":"AS","phoneCode":"+1"},{"name":"Andorra","code":"AD","phoneCode":"+376"},{"name":"Angola","code":"AO","phoneCode":"+244"},{"name":"Anguilla","code":"AI","phoneCode":"+1"},{"name":"Antigua & Barbuda","code":"AG","phoneCode":"+1"},{"name":"Argentina","code":"AR","phoneCode":"+54"},{"name":"Armenia","code":"AM","phoneCode":"+374"},{"name":"Aruba","code":"AW","phoneCode":"+297"},{"name":"Ascension Island","code":"AC","phoneCode":"+247"},{"name":"Australia","code":"AU","phoneCode":"+61"},{"name":"Austria","code":"AT","phoneCode":"+43"},{"name":"Azerbaijan","code":"AZ","phoneCode":"+994"},{"name":"Bahamas","code":"BS","phoneCode":"+1"},{"name":"Bahrain","code":"BH","phoneCode":"+973"},{"name":"Bangladesh","code":"BD","phoneCode":"+880"},{"name":"Barbados","code":"BB","phoneCode":"+1"},{"name":"Belarus","code":"BY","phoneCode":"+375"},{"name":"Belgium","code":"BE","phoneCode":"+32"},{"name":"Belize","code":"BZ","phoneCode":"+501"},{"name":"Benin","code":"BJ","phoneCode":"+229"},{"name":"Bermuda","code":"BM","phoneCode":"+1"},{"name":"Bhutan","code":"BT","phoneCode":"+975"},{"name":"Bolivia","code":"BO","phoneCode":"+591"},{"name":"Bosnia & Herzegovina","code":"BA","phoneCode":"+387"},{"name":"Botswana","code":"BW","phoneCode":"+267"},{"name":"Brazil","code":"BR","phoneCode":"+55"},{"name":"British Indian Ocean Territory","code":"IO","phoneCode":"+246"},{"name":"British Virgin Islands","code":"VG","phoneCode":"+1"},{"name":"Brunei","code":"BN","phoneCode":"+673"},{"name":"Bulgaria","code":"BG","phoneCode":"+359"},{"name":"Burkina Faso","code":"BF","phoneCode":"+226"},{"name":"Burundi","code":"BI","phoneCode":"+257"},{"name":"Cambodia","code":"KH","phoneCode":"+855"},{"name":"Cameroon","code":"CM","phoneCode":"+237"},{"name":"Canada","code":"CA","phoneCode":"+1"},{"name":"Cape Verde","code":"CV","phoneCode":"+238"},{"name":"Caribbean Netherlands","code":"BQ","phoneCode":"+599"},{"name":"Cayman Islands","code":"KY","phoneCode":"+1"},{"name":"Central African Republic","code":"CF","phoneCode":"+236"},{"name":"Chad","code":"TD","phoneCode":"+235"},{"name":"Chile","code":"CL","phoneCode":"+56"},{"name":"China","code":"CN","phoneCode":"+86"},{"name":"Christmas Island","code":"CX","phoneCode":"+61"},{"name":"Cocos (Keeling) Islands","code":"CC","phoneCode":"+61"},{"name":"Colombia","code":"CO","phoneCode":"+57"},{"name":"Comoros","code":"KM","phoneCode":"+269"},{"name":"Congo - Brazzaville","code":"CG","phoneCode":"+242"},{"name":"Congo - Kinshasa","code":"CD","phoneCode":"+243"},{"name":"Cook Islands","code":"CK","phoneCode":"+682"},{"name":"Costa Rica","code":"CR","phoneCode":"+506"},{"name":"Côte d’Ivoire","code":"CI","phoneCode":"+225"},{"name":"Croatia","code":"HR","phoneCode":"+385"},{"name":"Cuba","code":"CU","phoneCode":"+53"},{"name":"Curaçao","code":"CW","phoneCode":"+599"},{"name":"Cyprus","code":"CY","phoneCode":"+357"},{"name":"Czechia","code":"CZ","phoneCode":"+420"},{"name":"Denmark","code":"DK","phoneCode":"+45"},{"name":"Djibouti","code":"DJ","phoneCode":"+253"},{"name":"Dominica","code":"DM","phoneCode":"+1"},{"name":"Dominican Republic","code":"DO","phoneCode":"+1"},{"name":"Ecuador","code":"EC","phoneCode":"+593"},{"name":"Egypt","code":"EG","phoneCode":"+20"},{"name":"El Salvador","code":"SV","phoneCode":"+503"},{"name":"Equatorial Guinea","code":"GQ","phoneCode":"+240"},{"name":"Eritrea","code":"ER","phoneCode":"+291"},{"name":"Estonia","code":"EE","phoneCode":"+372"},{"name":"Eswatini","code":"SZ","phoneCode":"+268"},{"name":"Ethiopia","code":"ET","phoneCode":"+251"},{"name":"Falkland Islands","code":"FK","phoneCode":"+500"},{"name":"Faroe Islands","code":"FO","phoneCode":"+298"},{"name":"Fiji","code":"FJ","phoneCode":"+679"},{"name":"Finland","code":"FI","phoneCode":"+358"},{"name":"France","code":"FR","phoneCode":"+33"},{"name":"French Guiana","code":"GF","phoneCode":"+594"},{"name":"French Polynesia","code":"PF","phoneCode":"+689"},{"name":"Gabon","code":"GA","phoneCode":"+241"},{"name":"Gambia","code":"GM","phoneCode":"+220"},{"name":"Georgia","code":"GE","phoneCode":"+995"},{"name":"Germany","code":"DE","phoneCode":"+49"},{"name":"Ghana","code":"GH","phoneCode":"+233"},{"name":"Gibraltar","code":"GI","phoneCode":"+350"},{"name":"Greece","code":"GR","phoneCode":"+30"},{"name":"Greenland","code":"GL","phoneCode":"+299"},{"name":"Grenada","code":"GD","phoneCode":"+1"},{"name":"Guadeloupe","code":"GP","phoneCode":"+590"},{"name":"Guam","code":"GU","phoneCode":"+1"},{"name":"Guatemala","code":"GT","phoneCode":"+502"},{"name":"Guernsey","code":"GG","phoneCode":"+44"},{"name":"Guinea","code":"GN","phoneCode":"+224"},{"name":"Guinea-Bissau","code":"GW","phoneCode":"+245"},{"name":"Guyana","code":"GY","phoneCode":"+592"},{"name":"Haiti","code":"HT","phoneCode":"+509"},{"name":"Honduras","code":"HN","phoneCode":"+504"},{"name":"Hong Kong SAR China","code":"HK","phoneCode":"+852"},{"name":"Hungary","code":"HU","phoneCode":"+36"},{"name":"Iceland","code":"IS","phoneCode":"+354"},{"name":"India","code":"IN","phoneCode":"+91"},{"name":"Indonesia","code":"ID","phoneCode":"+62"},{"name":"Iran","code":"IR","phoneCode":"+98"},{"name":"Iraq","code":"IQ","phoneCode":"+964"},{"name":"Ireland","code":"IE","phoneCode":"+353"},{"name":"Isle of Man","code":"IM","phoneCode":"+44"},{"name":"Israel","code":"IL","phoneCode":"+972"},{"name":"Italy","code":"IT","phoneCode":"+39"},{"name":"Jamaica","code":"JM","phoneCode":"+1"},{"name":"Japan","code":"JP","phoneCode":"+81"},{"name":"Jersey","code":"JE","phoneCode":"+44"},{"name":"Jordan","code":"JO","phoneCode":"+962"},{"name":"Kazakhstan","code":"KZ","phoneCode":"+7"},{"name":"Kenya","code":"KE","phoneCode":"+254"},{"name":"Kiribati","code":"KI","phoneCode":"+686"},{"name":"Kosovo","code":"XK","phoneCode":"+383"},{"name":"Kuwait","code":"KW","phoneCode":"+965"},{"name":"Kyrgyzstan","code":"KG","phoneCode":"+996"},{"name":"Laos","code":"LA","phoneCode":"+856"},{"name":"Latvia","code":"LV","phoneCode":"+371"},{"name":"Lebanon","code":"LB","phoneCode":"+961"},{"name":"Lesotho","code":"LS","phoneCode":"+266"},{"name":"Liberia","code":"LR","phoneCode":"+231"},{"name":"Libya","code":"LY","phoneCode":"+218"},{"name":"Liechtenstein","code":"LI","phoneCode":"+423"},{"name":"Lithuania","code":"LT","phoneCode":"+370"},{"name":"Luxembourg","code":"LU","phoneCode":"+352"},{"name":"Macao SAR China","code":"MO","phoneCode":"+853"},{"name":"Madagascar","code":"MG","phoneCode":"+261"},{"name":"Malawi","code":"MW","phoneCode":"+265"},{"name":"Malaysia","code":"MY","phoneCode":"+60"},{"name":"Maldives","code":"MV","phoneCode":"+960"},{"name":"Mali","code":"ML","phoneCode":"+223"},{"name":"Malta","code":"MT","phoneCode":"+356"},{"name":"Marshall Islands","code":"MH","phoneCode":"+692"},{"name":"Martinique","code":"MQ","phoneCode":"+596"},{"name":"Mauritania","code":"MR","phoneCode":"+222"},{"name":"Mauritius","code":"MU","phoneCode":"+230"},{"name":"Mayotte","code":"YT","phoneCode":"+262"},{"name":"Mexico","code":"MX","phoneCode":"+52"},{"name":"Micronesia","code":"FM","phoneCode":"+691"},{"name":"Moldova","code":"MD","phoneCode":"+373"},{"name":"Monaco","code":"MC","phoneCode":"+377"},{"name":"Mongolia","code":"MN","phoneCode":"+976"},{"name":"Montenegro","code":"ME","phoneCode":"+382"},{"name":"Montserrat","code":"MS","phoneCode":"+1"},{"name":"Morocco","code":"MA","phoneCode":"+212"},{"name":"Mozambique","code":"MZ","phoneCode":"+258"},{"name":"Myanmar (Burma)","code":"MM","phoneCode":"+95"},{"name":"Namibia","code":"NA","phoneCode":"+264"},{"name":"Nauru","code":"NR","phoneCode":"+674"},{"name":"Nepal","code":"NP","phoneCode":"+977"},{"name":"Netherlands","code":"NL","phoneCode":"+31"},{"name":"New Caledonia","code":"NC","phoneCode":"+687"},{"name":"New Zealand","code":"NZ","phoneCode":"+64"},{"name":"Nicaragua","code":"NI","phoneCode":"+505"},{"name":"Niger","code":"NE","phoneCode":"+227"},{"name":"Nigeria","code":"NG","phoneCode":"+234"},{"name":"Niue","code":"NU","phoneCode":"+683"},{"name":"Norfolk Island","code":"NF","phoneCode":"+672"},{"name":"Northern Mariana Islands","code":"MP","phoneCode":"+1"},{"name":"North Korea","code":"KP","phoneCode":"+850"},{"name":"North Macedonia","code":"MK","phoneCode":"+389"},{"name":"Norway","code":"NO","phoneCode":"+47"},{"name":"Oman","code":"OM","phoneCode":"+968"},{"name":"Pakistan","code":"PK","phoneCode":"+92"},{"name":"Palau","code":"PW","phoneCode":"+680"},{"name":"Palestinian Territories","code":"PS","phoneCode":"+970"},{"name":"Panama","code":"PA","phoneCode":"+507"},{"name":"Papua New Guinea","code":"PG","phoneCode":"+675"},{"name":"Paraguay","code":"PY","phoneCode":"+595"},{"name":"Peru","code":"PE","phoneCode":"+51"},{"name":"Philippines","code":"PH","phoneCode":"+63"},{"name":"Poland","code":"PL","phoneCode":"+48"},{"name":"Portugal","code":"PT","phoneCode":"+351"},{"name":"Puerto Rico","code":"PR","phoneCode":"+1"},{"name":"Qatar","code":"QA","phoneCode":"+974"},{"name":"Réunion","code":"RE","phoneCode":"+262"},{"name":"Romania","code":"RO","phoneCode":"+40"},{"name":"Russia","code":"RU","phoneCode":"+7"},{"name":"Rwanda","code":"RW","phoneCode":"+250"},{"name":"Samoa","code":"WS","phoneCode":"+685"},{"name":"San Marino","code":"SM","phoneCode":"+378"},{"name":"São Tomé & Príncipe","code":"ST","phoneCode":"+239"},{"name":"Saudi Arabia","code":"SA","phoneCode":"+966"},{"name":"Senegal","code":"SN","phoneCode":"+221"},{"name":"Serbia","code":"RS","phoneCode":"+381"},{"name":"Seychelles","code":"SC","phoneCode":"+248"},{"name":"Sierra Leone","code":"SL","phoneCode":"+232"},{"name":"Singapore","code":"SG","phoneCode":"+65"},{"name":"Sint Maarten","code":"SX","phoneCode":"+1"},{"name":"Slovakia","code":"SK","phoneCode":"+421"},{"name":"Slovenia","code":"SI","phoneCode":"+386"},{"name":"Solomon Islands","code":"SB","phoneCode":"+677"},{"name":"Somalia","code":"SO","phoneCode":"+252"},{"name":"South Africa","code":"ZA","phoneCode":"+27"},{"name":"South Korea","code":"KR","phoneCode":"+82"},{"name":"South Sudan","code":"SS","phoneCode":"+211"},{"name":"Spain","code":"ES","phoneCode":"+34"},{"name":"Sri Lanka","code":"LK","phoneCode":"+94"},{"name":"St. Barthélemy","code":"BL","phoneCode":"+590"},{"name":"St. Helena","code":"SH","phoneCode":"+290"},{"name":"St. Kitts & Nevis","code":"KN","phoneCode":"+1"},{"name":"St. Lucia","code":"LC","phoneCode":"+1"},{"name":"St. Martin","code":"MF","phoneCode":"+590"},{"name":"St. Pierre & Miquelon","code":"PM","phoneCode":"+508"},{"name":"St. Vincent & Grenadines","code":"VC","phoneCode":"+1"},{"name":"Sudan","code":"SD","phoneCode":"+249"},{"name":"Suriname","code":"SR","phoneCode":"+597"},{"name":"Svalbard & Jan Mayen","code":"SJ","phoneCode":"+47"},{"name":"Sweden","code":"SE","phoneCode":"+46"},{"name":"Switzerland","code":"CH","phoneCode":"+41"},{"name":"Syria","code":"SY","phoneCode":"+963"},{"name":"Taiwan","code":"TW","phoneCode":"+886"},{"name":"Tajikistan","code":"TJ","phoneCode":"+992"},{"name":"Tanzania","code":"TZ","phoneCode":"+255"},{"name":"Thailand","code":"TH","phoneCode":"+66"},{"name":"Timor-Leste","code":"TL","phoneCode":"+670"},{"name":"Togo","code":"TG","phoneCode":"+228"},{"name":"Tokelau","code":"TK","phoneCode":"+690"},{"name":"Tonga","code":"TO","phoneCode":"+676"},{"name":"Trinidad & Tobago","code":"TT","phoneCode":"+1"},{"name":"Tristan da Cunha","code":"TA","phoneCode":"+290"},{"name":"Tunisia","code":"TN","phoneCode":"+216"},{"name":"Turkey","code":"TR","phoneCode":"+90"},{"name":"Turkmenistan","code":"TM","phoneCode":"+993"},{"name":"Turks & Caicos Islands","code":"TC","phoneCode":"+1"},{"name":"Tuvalu","code":"TV","phoneCode":"+688"},{"name":"U.S. Virgin Islands","code":"VI","phoneCode":"+1"},{"name":"Uganda","code":"UG","phoneCode":"+256"},{"name":"Ukraine","code":"UA","phoneCode":"+380"},{"name":"United Arab Emirates","code":"AE","phoneCode":"+971"},{"name":"United Kingdom","code":"GB","phoneCode":"+44"},{"name":"United States","code":"US","phoneCode":"+1"},{"name":"Uruguay","code":"UY","phoneCode":"+598"},{"name":"Uzbekistan","code":"UZ","phoneCode":"+998"},{"name":"Vanuatu","code":"VU","phoneCode":"+678"},{"name":"Vatican City","code":"VA","phoneCode":"+39"},{"name":"Venezuela","code":"VE","phoneCode":"+58"},{"name":"Vietnam","code":"VN","phoneCode":"+84"},{"name":"Wallis & Futuna","code":"WF","phoneCode":"+681"},{"name":"Western Sahara","code":"EH","phoneCode":"+212"},{"name":"Yemen","code":"YE","phoneCode":"+967"},{"name":"Zambia","code":"ZM","phoneCode":"+260"},{"name":"Zimbabwe","code":"ZW","phoneCode":"+263"}],"initialAddressFormat":{"id":0,"type":"ADDRESS","country":"US","labelLocale":"en","fields":[{"type":"FIELD","label":"Address Line 1","identifier":"Line1","length":0,"required":true,"metadata":{"autocomplete":"address-line1"}},{"type":"SEPARATOR","label":"\n","identifier":"Newline","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"Address Line 2","identifier":"Line2","length":0,"required":false,"metadata":{"autocomplete":"address-line2"}},{"type":"SEPARATOR","label":"\n","identifier":"Newline","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"City","identifier":"City","length":0,"required":true,"metadata":{"autocomplete":"address-level2"}},{"type":"SEPARATOR","label":",","identifier":"Comma","length":0,"required":false,"metadata":{}},{"type":"SEPARATOR","label":" ","identifier":"Space","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"State","identifier":"State","length":0,"required":true,"metadata":{"autocomplete":"address-level1"}},{"type":"SEPARATOR","label":" ","identifier":"Space","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"ZIP Code","identifier":"Zip","length":0,"required":true,"metadata":{"autocomplete":"postal-code"}}]},"initialNameOrder":"GIVEN_FIRST","initialPhoneFormat":{"id":0,"type":"PHONE_NUMBER","country":"US","labelLocale":"en-US","fields":[{"type":"SEPARATOR","label":"(","identifier":"LeftParen","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"1","identifier":"1","length":3,"required":false,"metadata":{}},{"type":"SEPARATOR","label":")","identifier":"RightParen","length":0,"required":false,"metadata":{}},{"type":"SEPARATOR","label":" ","identifier":"Space","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"2","identifier":"2","length":3,"required":false,"metadata":{}},{"type":"SEPARATOR","label":"-","identifier":"Dash","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"3","identifier":"3","length":14,"required":false,"metadata":{}}]}},"showTitle":false,"captchaEnabled":true,"buttonVariant":"","objectName":"d764e7205acc84de4236","formFields":[{"type":"name","id":"name-yui_3_17_2_1_1553888888520_3744","locked":false,"title":"Name","description":"","required":true,"name":true},{"type":"email","id":"email-yui_3_17_2_1_1553888888520_3745","locked":false,"title":"Email","description":"","placeholder":"","required":true,"email":true},{"type":"textarea","id":"textarea-yui_3_17_2_1_1553888888520_3747","locked":false,"title":"Message","description":"","placeholder":"","required":true,"textarea":true}],"captchaAlignment":1,"lightboxHandleText":"","localizedStrings":{"validation":{"noValidSelection":"A valid selection must be made.","invalidUrl":"Must be a valid URL.","stringTooLong":"Value should have a length no longer than {0}.","containsInvalidKey":"{0} contains an invalid key.","invalidTwitterUsername":"Must be a valid Twitter username.","valueOutsideRange":"Value must be in the range {0} to {1}.","invalidPassword":"Passwords should not contain whitespace.","missingRequiredSubfields":"{0} is missing required subfields: {1}","invalidCurrency":"Currency value should be formatted like 1234 or 123.99.","invalidMapSize":"Value should contain exactly {0} elements.","subfieldsRequired":"All fields in {0} are required.","formSubmissionFailed":"Form submission failed. Review the following information: {0}.","invalidCountryCode":"Country code should have an optional plus and up to 4 digits.","invalidDate":"This is not a real date.","required":"{0} is required.","invalidStringLength":"Value should be {0} characters long.","invalidEmail":"Email addresses should follow the format user@domain.com.","invalidListLength":"Value should be {0} elements long.","allEmpty":"Please fill out at least one form field.","missingRequiredQuestion":"Missing a required question.","invalidQuestion":"Contained an invalid question.","captchaFailure":"Captcha validation failed. Please try again.","stringTooShort":"Value should have a length of at least {0}.","invalid":"{0} is not valid.","formErrors":"Form Errors","containsInvalidValue":"{0} contains an invalid value.","invalidUnsignedNumber":"Numbers must contain only digits and no other characters.","invalidName":"Valid names contain only letters, numbers, spaces, ', or - characters."},"submit":"Submit","status":{"title":"{@} Block","learnMore":"Learn more"},"name":{"firstName":"First Name","lastName":"Last Name"},"lightbox":{"openForm":"Open Form"},"likert":{"agree":"Agree","stronglyDisagree":"Strongly Disagree","disagree":"Disagree","stronglyAgree":"Strongly Agree","neutral":"Neutral"},"time":{"am":"AM","second":"Second","pm":"PM","minute":"Minute","amPm":"AM/PM","hour":"Hour"},"notFound":"Form not found.","date":{"yyyy":"YYYY","year":"Year","mm":"MM","day":"Day","month":"Month","dd":"DD"},"phone":{"country":"Country","number":"Number","prefix":"Prefix","areaCode":"Area Code","line":"Line"},"submitError":"Unable to submit form. Please try again later.","address":{"stateProvince":"State/Province","country":"Country","zipPostalCode":"Zip/Postal Code","address2":"Address 2","address1":"Address 1","city":"City"},"email":{"signUp":"Sign up for news and updates"},"cannotSubmitDemoForm":"This is a demo form and cannot be submitted.","required":"(required)","invalidData":"Invalid form data."}}</script>
+  <div id="form-submission-html-65b98f88cd5ab27b19438cee" class="sqs-form-block-submission-html" data-submission-html=""></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+<div class="form-wrapper"
+  
+>
+  
+  <div class="form-inner-wrapper"  hidden>
+    <form
+       data-form-id="65b98f88cd5ab27b19438cee"
+       data-success-redirect=""
+       data-dynamic-strings
+       autocomplete="on"
+       
+       method="POST"
+       action="https://heron-cat-4jzp.squarespace.com"
+       novalidate
+       onsubmit="return (function (form) {
+  Y.use('squarespace-form-submit', 'node', function usingFormSubmit(Y) {
+    (new Y.Squarespace.FormSubmit(form)).submit({
+      formId: '65b98f88cd5ab27b19438cee',
+      collectionId: '65b98f88cd5ab27b19438cf0',
+      objectName: 'd764e7205acc84de4236'
+    });
+  });
+  return false;
+})(this);"
+       
+    >
+      
+        <div class="field-list clear">
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset id="name-yui_3_17_2_1_1553888888520_3744" class="form-item fields name required">
+                
+            <legend class="title">
+              Name
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </legend>
+          
+                
+                <div class="field first-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="fname"
+                        x-autocompletetype="given-name"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="First"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">First Name</span>
+                  </label>
+                </div>
+                <div class="field last-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="lname"
+                        x-autocompletetype="surname"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="Last"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">Last Name</span>
+                  </label>
+                </div>
+              </fieldset>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+              <div id="email-yui_3_17_2_1_1553888888520_3745" class="form-item field email required">
+                
+            <label class="title" for="email-yui_3_17_2_1_1553888888520_3745-field">
+              Email
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <input
+                    class="field-element"
+                    id="email-yui_3_17_2_1_1553888888520_3745-field"
+                    name="email"
+                    type="email"
+                    autocomplete="email"
+                    spellcheck="false"
+                    
+                    aria-required="true"
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+              <div id="textarea-yui_3_17_2_1_1553888888520_3747" class="form-item field textarea required">
+                
+            <label class="title" for="textarea-yui_3_17_2_1_1553888888520_3747-field">
+              Message
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <textarea
+                    class="field-element "
+                    id="textarea-yui_3_17_2_1_1553888888520_3747-field"
+                    
+                    aria-required="true"
+                ></textarea>
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+        </div>
+
+      
+
+      
+      <div class="captcha-container
+        align-left
+        
+        
+        "
+        data-theme="light"
+      ></div>
+      
+
+      
+      <div data-animation-role="button"
+        class="
+          form-button-wrapper
+          
+            form-button-wrapper--align-left
+          
+        "
+      >
+        <input
+          class="button sqs-system-button sqs-editable-button sqs-button-element--primary"
+          type="submit"
+          value="Send"
+        />
+      </div>
+      
+
+      
+      <div class="hidden form-submission-text">Thank you!</div>
+      <div class="hidden form-submission-html" data-submission-html=""></div>
+    </form>
+  </div>
+</div>
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>contact</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>2</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <title>create graphic design</title>
+      <link>/blog/Blog Post Title One-jgwxf</link>
+      <content:encoded><![CDATA[<div class="sqs-html-content">
+  <p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;"><em>Today, we explore the essence of style with JonesnCloths. From timeless classics to contemporary trends, every piece is a statement – a celebration of individuality. The journey through the curated collections sparks a dialogue between fashion and self-expression, inviting you to embrace elegance in every stitch.</em></p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;"><em>Whether it's the impeccable tailoring, the soft touch of quality fabrics, or the subtle details that elevate each design, JonesnCloths embodies a commitment to sophistication and comfort. As you navigate the racks or scroll through the online catalog, you're not just selecting an outfit; you're curating a reflection of your unique style.</em></p><p class="" style="white-space:pre-wrap;"><em>JonesnClothes is more than a brand; it's a companion on your style journey, offering a curated selection that adapts to your mood, occasion, and personality. Today's wardrobe is not just an ensemble; it's a canvas, and JonesnClothes provides the brushstrokes for your fashion masterpiece.</em></p><p class="" style="white-space:pre-wrap;"><em>So, whether you're stepping into the boardroom, attending a soirée, or enjoying a casual day out, do it with JonesnCloths – where every thread tells a story, and every outfit is a chapter in your style narrative.</em></p><p class="" style="white-space:pre-wrap;"><strong>Graphic Design Concept (Journal Cover):</strong></p><p class="" style="white-space:pre-wrap;"><em>Background:</em></p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">A subtle, textured backdrop in a neutral color palette (perhaps light gray or beige) to evoke sophistication.</p></li></ul><p class="" style="white-space:pre-wrap;"><em>Title:</em></p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">"Embracing Elegance" in a stylish, modern font, positioned prominently at the top.</p></li></ul><p class="" style="white-space:pre-wrap;"><em>Visual Elements:</em></p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">An artistic blend of clothing items like a tailored suit, a flowing dress, and accessories forming an elegant collage, emphasizing diversity in style.</p></li></ul><p class="" style="white-space:pre-wrap;"><em>Brand Logo:</em></p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">The JonesnClothes logo is placed strategically, incorporating it seamlessly into the overall design.</p></li></ul><p class="" style="white-space:pre-wrap;"><em>Accents:</em></p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Delicate lines or swirls intertwine with the visual elements, adding a touch of artistic flair.</p></li></ul><p class="" style="white-space:pre-wrap;"><em>Color Palette:</em></p><ul data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">Harmonious with the brand colors, maintaining a connection with the overall JonesnClothes aesthetic.</p></li></ul>
+</div>]]></content:encoded>
+      <excerpt:encoded><![CDATA[<p class="" style="white-space:pre-wrap;">It all begins with an idea.</p>]]></excerpt:encoded>
+      <wp:post_name>Blog Post Title One-jgwxf</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>3</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Tue, 28 May 2019 15:13:10 +0000</pubDate>
+      <wp:post_date>2019-05-28 15:13:10</wp:post_date>
+      <wp:post_date_gmt>2019-05-28 15:13:10</wp:post_date_gmt>
+      <wp:postmeta>
+        <wp:meta_key>passthrough_url</wp:meta_key>
+        <wp:meta_value>https://jonesncloths.com</wp:meta_value>
+      </wp:postmeta>
+      <dc:creator>support@jonesncloths.com</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_id</wp:meta_key>
+        <wp:meta_value><![CDATA[4]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <wp:attachment_url>http://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/1708891513102-Y65ABSZCQZFM6OOF3TL2/duck+%281%29.png</wp:attachment_url>
+      <link>http://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/1708891513102-Y65ABSZCQZFM6OOF3TL2/duck+%281%29.png</link>
+      <title>attachment-65c824ffd381da14f79b0580</title>
+      <wp:post_name>duck-1-png</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>4</wp:post_id>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-65c824ffd381da14f79b0580]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-65c824ffd381da14f79b0580]]></excerpt:encoded>
+      <pubDate>Tue, 28 May 2019 15:13:10 +0000</pubDate>
+      <wp:post_date>2019-05-28 15:13:10</wp:post_date>
+      <wp:post_date_gmt>2019-05-28 15:13:10</wp:post_date_gmt>
+      <dc:creator>support@jonesncloths.com</dc:creator>
+    </item>
+    <item>
+      <title>Blog Post Title Two</title>
+      <link>/blog/blog-post-title-two-yp7wr</link>
+      <content:encoded><![CDATA[<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference.</p><p class="" style="white-space:pre-wrap;">Don’t worry about sounding professional. Sound like you. There are over 1.5 billion websites out there, but your story is what’s going to separate this one from the rest. If you read the words back and don’t hear your own voice in your head, that’s a good sign you still have more work to do.</p><p class="" style="white-space:pre-wrap;">Be clear, be confident and don’t overthink it. The beauty of your story is that it’s going to continue to evolve and your site can evolve with it. Your goal should be to make it feel right for right now. Later will take care of itself. It always does.</p>
+</div>]]></content:encoded>
+      <excerpt:encoded><![CDATA[<p class="" style="white-space:pre-wrap;">It all begins with an idea.</p>]]></excerpt:encoded>
+      <wp:post_name>blog-post-title-two-yp7wr</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>5</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Tue, 28 May 2019 15:12:55 +0000</pubDate>
+      <wp:post_date>2019-05-28 15:12:55</wp:post_date>
+      <wp:post_date_gmt>2019-05-28 15:12:55</wp:post_date_gmt>
+      <dc:creator>support@jonesncloths.com</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_id</wp:meta_key>
+        <wp:meta_value><![CDATA[6]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <wp:attachment_url>http://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589846765456-K7Y4L9XRPQYEYEZDL2Z0/20140301_Trade-151_0124-copy.jpg</wp:attachment_url>
+      <link>http://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589846765456-K7Y4L9XRPQYEYEZDL2Z0/20140301_Trade-151_0124-copy.jpg</link>
+      <title>attachment-65c824ffd381da14f79b0583</title>
+      <wp:post_name>20140301-Trade-151-0124-copy-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>6</wp:post_id>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-65c824ffd381da14f79b0583]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-65c824ffd381da14f79b0583]]></excerpt:encoded>
+      <pubDate>Tue, 28 May 2019 15:12:55 +0000</pubDate>
+      <wp:post_date>2019-05-28 15:12:55</wp:post_date>
+      <wp:post_date_gmt>2019-05-28 15:12:55</wp:post_date_gmt>
+      <dc:creator>support@jonesncloths.com</dc:creator>
+    </item>
+    <item>
+      <title>Blog Post Title Three</title>
+      <link>/blog/blog-post-title-three-db64b</link>
+      <content:encoded><![CDATA[<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference.</p><p class="" style="white-space:pre-wrap;">Don’t worry about sounding professional. Sound like you. There are over 1.5 billion websites out there, but your story is what’s going to separate this one from the rest. If you read the words back and don’t hear your own voice in your head, that’s a good sign you still have more work to do.</p><p class="" style="white-space:pre-wrap;">Be clear, be confident and don’t overthink it. The beauty of your story is that it’s going to continue to evolve and your site can evolve with it. Your goal should be to make it feel right for right now. Later will take care of itself. It always does.</p>
+</div>]]></content:encoded>
+      <excerpt:encoded><![CDATA[<p class="" style="white-space:pre-wrap;">It all begins with an idea.</p>]]></excerpt:encoded>
+      <wp:post_name>blog-post-title-three-db64b</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>7</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Tue, 28 May 2019 15:12:09 +0000</pubDate>
+      <wp:post_date>2019-05-28 15:12:09</wp:post_date>
+      <wp:post_date_gmt>2019-05-28 15:12:09</wp:post_date_gmt>
+      <dc:creator>support@jonesncloths.com</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_id</wp:meta_key>
+        <wp:meta_value><![CDATA[8]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <wp:attachment_url>http://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589846765969-U0FPEKJJKFU3LHRRRJ7R/20140301_Trade-151_0124-copy.jpg</wp:attachment_url>
+      <link>http://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589846765969-U0FPEKJJKFU3LHRRRJ7R/20140301_Trade-151_0124-copy.jpg</link>
+      <title>attachment-65c824ffd381da14f79b057e</title>
+      <wp:post_name>20140301-Trade-151-0124-copy-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>8</wp:post_id>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-65c824ffd381da14f79b057e]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-65c824ffd381da14f79b057e]]></excerpt:encoded>
+      <pubDate>Tue, 28 May 2019 15:12:09 +0000</pubDate>
+      <wp:post_date>2019-05-28 15:12:09</wp:post_date>
+      <wp:post_date_gmt>2019-05-28 15:12:09</wp:post_date_gmt>
+      <dc:creator>support@jonesncloths.com</dc:creator>
+    </item>
+    <item>
+      <title>Blog Post Title Four</title>
+      <link>/blog/blog-post-title-four-mr9xw</link>
+      <content:encoded><![CDATA[<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">It all begins with an idea. Maybe you want to launch a business. Maybe you want to turn a hobby into something more. Or maybe you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference.</p><p class="" style="white-space:pre-wrap;">Don’t worry about sounding professional. Sound like you. There are over 1.5 billion websites out there, but your story is what’s going to separate this one from the rest. If you read the words back and don’t hear your own voice in your head, that’s a good sign you still have more work to do.</p><p class="" style="white-space:pre-wrap;">Be clear, be confident and don’t overthink it. The beauty of your story is that it’s going to continue to evolve and your site can evolve with it. Your goal should be to make it feel right for right now. Later will take care of itself. It always does.</p>
+</div>]]></content:encoded>
+      <excerpt:encoded><![CDATA[<p class="" style="white-space:pre-wrap;">It all begins with an idea.</p>]]></excerpt:encoded>
+      <wp:post_name>blog-post-title-four-mr9xw</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>9</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Tue, 28 May 2019 15:11:49 +0000</pubDate>
+      <wp:post_date>2019-05-28 15:11:49</wp:post_date>
+      <wp:post_date_gmt>2019-05-28 15:11:49</wp:post_date_gmt>
+      <dc:creator>support@jonesncloths.com</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+      <wp:postmeta>
+        <wp:meta_key>_thumbnail_id</wp:meta_key>
+        <wp:meta_value><![CDATA[10]]></wp:meta_value>
+      </wp:postmeta>
+    </item>
+    <item>
+      <wp:attachment_url>http://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589846766405-HZ4J7WCKOPKHQVFQK3W2/20140301_Trade-151_0124-copy.jpg</wp:attachment_url>
+      <link>http://images.squarespace-cdn.com/content/v1/5ec321c2af33de48734cc929/1589846766405-HZ4J7WCKOPKHQVFQK3W2/20140301_Trade-151_0124-copy.jpg</link>
+      <title>attachment-65c824ffd381da14f79b0585</title>
+      <wp:post_name>20140301-Trade-151-0124-copy-jpg</wp:post_name>
+      <wp:post_type>attachment</wp:post_type>
+      <wp:post_id>10</wp:post_id>
+      <wp:status>inherit</wp:status>
+      <content:encoded><![CDATA[img-65c824ffd381da14f79b0585]]></content:encoded>
+      <excerpt:encoded><![CDATA[exc-65c824ffd381da14f79b0585]]></excerpt:encoded>
+      <pubDate>Tue, 28 May 2019 15:11:49 +0000</pubDate>
+      <wp:post_date>2019-05-28 15:11:49</wp:post_date>
+      <wp:post_date_gmt>2019-05-28 15:11:49</wp:post_date_gmt>
+      <dc:creator>support@jonesncloths.com</dc:creator>
+    </item>
+    <item>
+      <link>/faq</link>
+      <title>FAQ</title>
+      <pubDate>Mon, 29 Apr 2024 00:32:54 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="660ecd98d488273666b519ba">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="bright-inverse"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    bright-inverse'
+  
+  data-section-id="660ece6b58999a65aa8f77f0"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;backgroundColor&quot;: &quot;&quot;,
+  &quot;sectionTheme&quot;: &quot;bright-inverse&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: {
+    &quot;playbackSpeed&quot;: 0.5,
+    &quot;filter&quot;: 1,
+    &quot;filterStrength&quot;: 0,
+    &quot;zoom&quot;: 0,
+    &quot;videoSourceProvider&quot;: &quot;none&quot;
+  },
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: {
+    &quot;type&quot;: &quot;none&quot;
+  },
+  &quot;divider&quot;: {
+    &quot;enabled&quot;: false
+  },
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border"
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-660ece6b6249f002d9912cfa {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(22,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-660ece6b6249f002d9912cfa {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-660ece6b6249f002d9912cfa {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(63,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-yui_3_17_2_1_1712243272904_4396 {
+    grid-area: 1/2/3/10;
+    z-index: 1;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1712243272904_4396 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1712243272904_4396 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1712243272904_4396 {
+      grid-area: 1/2/4/10;
+      z-index: 1;
+
+      
+        
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1712243272904_4396 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1712243272904_4396 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1714086664334_5455 {
+    grid-area: 3/2/9/10;
+    z-index: 4;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1714086664334_5455 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1714086664334_5455 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1714086664334_5455 {
+      grid-area: 19/2/25/6;
+      z-index: 4;
+
+      
+        
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1714086664334_5455 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1714086664334_5455 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1714086664334_3794 {
+    grid-area: 9/2/15/10;
+    z-index: 3;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1714086664334_3794 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1714086664334_3794 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1714086664334_3794 {
+      grid-area: 1/19/10/26;
+      z-index: 3;
+
+      
+        
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1714086664334_3794 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1714086664334_3794 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1712243272904_5069 {
+    grid-area: 15/2/17/10;
+    z-index: 2;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1712243272904_5069 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1712243272904_5069 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1712243272904_5069 {
+      grid-area: 7/7/56/21;
+      z-index: 2;
+
+      
+        
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1712243272904_5069 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1712243272904_5069 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1714086664334_7922 {
+    grid-area: 17/2/23/10;
+    z-index: 5;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1714086664334_7922 .sqs-block {
+    justify-content: center;
+  }
+
+  .fe-block-yui_3_17_2_1_1714086664334_7922 .sqs-block-alignment-wrapper {
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1714086664334_7922 {
+      grid-area: 52/6/64/22;
+      z-index: 5;
+
+      
+        
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1714086664334_7922 .sqs-block {
+      justify-content: center;
+    }
+
+    .fe-block-yui_3_17_2_1_1714086664334_7922 .sqs-block-alignment-wrapper {
+      align-items: center;
+    }
+  }
+
+</style><div class="fluid-engine fe-660ece6b6249f002d9912cfa"><div class="fe-block fe-block-yui_3_17_2_1_1712243272904_4396"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1712243272904_4396"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h1 style="white-space:pre-wrap;">FAQ</h1>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1714086664334_5455"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-yui_3_17_2_1_1714086664334_5455"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fit">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/36ae218d-fc9d-444d-a6db-a5f9383b3bfd/7116890.png" data-image="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/36ae218d-fc9d-444d-a6db-a5f9383b3bfd/7116890.png" data-image-dimensions="3000x3000" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/36ae218d-fc9d-444d-a6db-a5f9383b3bfd/7116890.png" width="3000" height="3000" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 16.666666666666664vw" style="display:block;object-fit: contain; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/36ae218d-fc9d-444d-a6db-a5f9383b3bfd/7116890.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/36ae218d-fc9d-444d-a6db-a5f9383b3bfd/7116890.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/36ae218d-fc9d-444d-a6db-a5f9383b3bfd/7116890.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/36ae218d-fc9d-444d-a6db-a5f9383b3bfd/7116890.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/36ae218d-fc9d-444d-a6db-a5f9383b3bfd/7116890.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/36ae218d-fc9d-444d-a6db-a5f9383b3bfd/7116890.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/36ae218d-fc9d-444d-a6db-a5f9383b3bfd/7116890.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-yui_3_17_2_1_1714086664334_5455 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1714086664334_3794"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-yui_3_17_2_1_1714086664334_3794"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fit">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/6099e62f-2648-4063-83c2-da7e69d7bbe2/13700937_VECTOR_GRAFFITI_CHARACTER_WITH_SPRAY_PAINT.png" data-image="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/6099e62f-2648-4063-83c2-da7e69d7bbe2/13700937_VECTOR_GRAFFITI_CHARACTER_WITH_SPRAY_PAINT.png" data-image-dimensions="2000x2000" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/6099e62f-2648-4063-83c2-da7e69d7bbe2/13700937_VECTOR_GRAFFITI_CHARACTER_WITH_SPRAY_PAINT.png" width="2000" height="2000" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 29.166666666666668vw" style="display:block;object-fit: contain; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/6099e62f-2648-4063-83c2-da7e69d7bbe2/13700937_VECTOR_GRAFFITI_CHARACTER_WITH_SPRAY_PAINT.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/6099e62f-2648-4063-83c2-da7e69d7bbe2/13700937_VECTOR_GRAFFITI_CHARACTER_WITH_SPRAY_PAINT.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/6099e62f-2648-4063-83c2-da7e69d7bbe2/13700937_VECTOR_GRAFFITI_CHARACTER_WITH_SPRAY_PAINT.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/6099e62f-2648-4063-83c2-da7e69d7bbe2/13700937_VECTOR_GRAFFITI_CHARACTER_WITH_SPRAY_PAINT.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/6099e62f-2648-4063-83c2-da7e69d7bbe2/13700937_VECTOR_GRAFFITI_CHARACTER_WITH_SPRAY_PAINT.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/6099e62f-2648-4063-83c2-da7e69d7bbe2/13700937_VECTOR_GRAFFITI_CHARACTER_WITH_SPRAY_PAINT.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/6099e62f-2648-4063-83c2-da7e69d7bbe2/13700937_VECTOR_GRAFFITI_CHARACTER_WITH_SPRAY_PAINT.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-yui_3_17_2_1_1714086664334_3794 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1712243272904_5069"><div class="sqs-block html-block sqs-block-html" data-blend-mode="NORMAL" data-block-type="2" data-border-radii="&#123;&quot;topLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;topRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomLeft&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;,&quot;bottomRight&quot;:&#123;&quot;unit&quot;:&quot;px&quot;,&quot;value&quot;:0.0&#125;&#125;" id="block-yui_3_17_2_1_1712243272904_5069"><div class="sqs-block-content">
+
+<div class="sqs-html-content">
+  <h3 style="white-space:pre-wrap;"> What is screen printing?</h3><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><ol data-rte-list="default"><li><p class="sqsrte-large" style="white-space:pre-wrap;">What makes JONES-N-CLOTHS screen printing technique unique?</p></li><li><p class="sqsrte-large" style="white-space:pre-wrap;">Are the inks used in screen printing eco-friendly?</p></li><li><p class="sqsrte-large" style="white-space:pre-wrap;">Can I customize designs with screen printing at JONES-N-CLOTHS?</p></li><li><p class="sqsrte-large" style="white-space:pre-wrap;">What types of garments can be screen printed?</p></li><li><p class="sqsrte-large" style="white-space:pre-wrap;">How durable are screen printed designs from JONES-N-CLOTHS?</p></li><li><p class="sqsrte-large" style="white-space:pre-wrap;">Do screen printed designs fade over time?</p></li><li><p class="sqsrte-large" style="white-space:pre-wrap;">Can I wash screen printed garments in a washing machine?</p></li><li><p class="sqsrte-large" style="white-space:pre-wrap;">Are there limitations to the complexity of designs that can be screen printed?</p></li><li><p class="sqsrte-large" style="white-space:pre-wrap;">Can I provide my own designs for screen printing?</p></li><li><p class="sqsrte-large" style="white-space:pre-wrap;">How long does it take to complete a screen printing order at JONES-N-CLOTHS?</p></li><li><p class="sqsrte-large" style="white-space:pre-wrap;">Do you offer discounts for bulk orders with screen printing?</p></li><li><p class="sqsrte-large" style="white-space:pre-wrap;">Can I see samples of previous screen printing work from JONES-N-CLOTHS?</p></li><li><p class="sqsrte-large" style="white-space:pre-wrap;">Are there any size restrictions for screen printing designs?</p></li><li><p class="sqsrte-large" style="white-space:pre-wrap;">What kind of aftercare is recommended for screen printed garments?</p></li><li><p class="sqsrte-large" style="white-space:pre-wrap;">Can screen printing be done on dark-colored garments?</p></li><li><p class="sqsrte-large" style="white-space:pre-wrap;">Are there any setup fees associated with screen printing orders?</p></li><li><p class="sqsrte-large" style="white-space:pre-wrap;">Can I request specific Pantone colors for my screen printed designs?</p></li><li><p class="sqsrte-large" style="white-space:pre-wrap;">How do I place an order for screen printing with JONES-N-CLOTHS?</p></li></ol><p class="sqsrte-large" style="white-space:pre-wrap;"><strong>If you have any additional questions or need further clarification, please don't hesitate to reach out to our customer support team.</strong></p><p class="sqsrte-large" style="white-space:pre-wrap;"><br></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+</div></div></div><div class="fe-block fe-block-yui_3_17_2_1_1714086664334_7922"><div class="sqs-block image-block sqs-block-image sqs-stretched" data-block-type="5" id="block-yui_3_17_2_1_1714086664334_7922"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+      class="
+        image-block-outer-wrapper
+        layout-caption-below
+        design-layout-fluid
+        image-position-center
+        combination-animation-site-default
+        individual-animation-site-default
+      "
+      data-test="image-block-fluid-outer-wrapper"
+    >
+      <div
+        class="fluid-image-animation-wrapper sqs-image sqs-block-alignment-wrapper"
+        data-animation-role="image"
+        
+  
+
+      >
+        <div
+          class="fluid-image-container sqs-image-content"
+          
+          style="overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);position: relative;width: 100%;height: 100%;"
+        >
+          
+
+          
+          
+
+          
+            
+              <div class="content-fit">
+                
+            
+            
+            
+            
+            
+            
+            <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/d1ea54d6-198d-4537-a576-72352f17f476/8.png" data-image="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/d1ea54d6-198d-4537-a576-72352f17f476/8.png" data-image-dimensions="3624x1030" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/d1ea54d6-198d-4537-a576-72352f17f476/8.png" width="3624" height="1030" alt="" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 66.66666666666666vw" style="display:block;object-fit: contain; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/d1ea54d6-198d-4537-a576-72352f17f476/8.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/d1ea54d6-198d-4537-a576-72352f17f476/8.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/d1ea54d6-198d-4537-a576-72352f17f476/8.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/d1ea54d6-198d-4537-a576-72352f17f476/8.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/d1ea54d6-198d-4537-a576-72352f17f476/8.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/d1ea54d6-198d-4537-a576-72352f17f476/8.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/65b98c836bb63e54e75e3b64/d1ea54d6-198d-4537-a576-72352f17f476/8.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+            
+              
+            
+            <div class="fluidImageOverlay"></div>
+          
+              </div>
+            
+          
+
+        </div>
+      </div>
+    </div>
+    <style>
+      .sqs-block-image .sqs-block-content {
+        height: 100%;
+        width: 100%;
+      }
+
+      
+        .fe-block-yui_3_17_2_1_1714086664334_7922 .fluidImageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          mix-blend-mode: normal;
+          
+            
+            
+          
+          
+            opacity: 0;
+          
+        }
+      
+    </style>
+  
+
+
+  
+
+
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>faq</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>11</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/privacy-policy</link>
+      <title>Privacy Policy</title>
+      <pubDate>Sat, 03 Aug 2024 13:24:07 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="66ae25578ef92c008d6db9a0">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="66ae25af9d563849e3730596"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;backgroundColor&quot;: &quot;&quot;,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: null,
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border"
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-66ae25af50a21a78f4ade11e {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(6,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-66ae25af50a21a78f4ade11e {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-66ae25af50a21a78f4ade11e {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(8,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-yui_3_17_2_1_1722694069079_3836 {
+    grid-area: 1/2/7/10;
+    z-index: 1;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1722694069079_3836 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1722694069079_3836 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1722694069079_3836 {
+      grid-area: 1/2/7/27;
+      z-index: 1;
+
+      
+        
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1722694069079_3836 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1722694069079_3836 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-66ae25af50a21a78f4ade11e"><div class="fe-block fe-block-yui_3_17_2_1_1722694069079_3836"><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_1_1722694069079_3836"><div class="sqs-block-content"><div name="termly-embed" data-id="02f039df-61ae-41f4-ae27-8744f867ace4"></div>
+<script type="text/javascript">(function(d, s, id) {
+  var js, tjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "https://app.termly.io/embed-policy.min.js";
+  tjs.parentNode.insertBefore(js, tjs);
+}(document, 'script', 'termly-jssdk'));</script></div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>privacy-policy</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>12</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/return-policy</link>
+      <title>Return Policy</title>
+      <pubDate>Sat, 03 Aug 2024 13:12:13 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="66ae2aa51f22ad28a244d783">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="66ae2adf47d4af2964bcd563"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;backgroundColor&quot;: &quot;&quot;,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: null,
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border"
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-66ae2adfe076d53fd057f2fc {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(6,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-66ae2adfe076d53fd057f2fc {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-66ae2adfe076d53fd057f2fc {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(8,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-yui_3_17_2_1_1722700871071_4791 {
+    grid-area: 1/2/7/10;
+    z-index: 1;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1722700871071_4791 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1722700871071_4791 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1722700871071_4791 {
+      grid-area: 1/2/7/26;
+      z-index: 1;
+
+      
+        
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1722700871071_4791 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1722700871071_4791 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-66ae2adfe076d53fd057f2fc"><div class="fe-block fe-block-yui_3_17_2_1_1722700871071_4791"><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_1_1722700871071_4791"><div class="sqs-block-content"><div name="termly-embed" data-id="98c83574-403e-43ca-b374-bd0867287e10"></div>
+<script type="text/javascript">(function(d, s, id) {
+  var js, tjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "https://app.termly.io/embed-policy.min.js";
+  tjs.parentNode.insertBefore(js, tjs);
+}(document, 'script', 'termly-jssdk'));</script></div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>return-policy</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>13</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/privacy-policy-1</link>
+      <title>Privacy Policy</title>
+      <pubDate>Sat, 03 Aug 2024 13:22:01 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" id="sections" data-page-sections="66ae2e9c0c1ceb7df7504c28">
+  
+  
+    
+    
+
+
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    '
+  
+  data-section-id="66ae2eb6c809195553a1eabf"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;backgroundColor&quot;: &quot;&quot;,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+  &quot;video&quot;: null,
+  &quot;backgroundImageId&quot;: null,
+  &quot;backgroundMediaEffect&quot;: null,
+  &quot;divider&quot;: null,
+  &quot;typeName&quot;: null
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border"
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-66ae2eb650a21a78f4af603f {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(6,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-66ae2eb650a21a78f4af603f {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-66ae2eb650a21a78f4af603f {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(8,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-yui_3_17_2_1_1722700871071_6977 {
+    grid-area: 1/2/7/10;
+    z-index: 1;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1722700871071_6977 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1722700871071_6977 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1722700871071_6977 {
+      grid-area: 1/2/9/26;
+      z-index: 1;
+
+      
+        
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1722700871071_6977 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1722700871071_6977 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-66ae2eb650a21a78f4af603f"><div class="fe-block fe-block-yui_3_17_2_1_1722700871071_6977"><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_1_1722700871071_6977"><div class="sqs-block-content"><div name="termly-embed" data-id="02f039df-61ae-41f4-ae27-8744f867ace4"></div>
+<script type="text/javascript">(function(d, s, id) {
+  var js, tjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "https://app.termly.io/embed-policy.min.js";
+  tjs.parentNode.insertBefore(js, tjs);
+}(document, 'script', 'termly-jssdk'));</script></div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>privacy-policy-1</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>14</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
+
